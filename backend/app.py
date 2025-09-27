@@ -15,7 +15,7 @@ import threading
 import time
 from contextlib import contextmanager
 from datetime import datetime, timedelta
-from flask import Flask, request, jsonify, session
+from flask import Flask, request, jsonify, session, make_response
 from flask_cors import CORS
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
@@ -39,21 +39,13 @@ app.config['SESSION_COOKIE_HTTPONLY'] = False  # Allow JavaScript access for deb
 app.config['SESSION_PERMANENT'] = False
 app.config['PERMANENT_SESSION_LIFETIME'] = 3600  # 1 hour
 
-# Enable CORS for frontend communication
-# Production: Supports both Netlify and local development
+# Enable CORS for frontend communication - OPEN FOR TESTING
 CORS(app, 
-     origins=[
-         "http://localhost:3000", 
-         "http://127.0.0.1:3000", 
-         "http://localhost:8000",
-         "https://*.netlify.app",  # For Netlify deployment
-         "https://*.render.com",   # For Render backend
-         "https://your-app-name.netlify.app"  # Replace with your actual Netlify URL
-     ], 
-     supports_credentials=True,
-     allow_headers=["Content-Type", "Authorization", "Cookie"],
-     methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-     expose_headers=["Set-Cookie"])
+     origins="*",  # Allow all origins for testing
+     supports_credentials=False,  # Disable credentials for broader access
+     allow_headers=["Content-Type", "Authorization", "Accept", "Origin", "X-Requested-With"],
+     methods=["GET", "POST", "PUT", "DELETE", "OPTIONS", "HEAD"],
+     expose_headers=["*"])
 
 # Configuration
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -567,7 +559,23 @@ def call_ai_api(messages, api_key):
 
 # API Routes
 
-@app.route('/api/health', methods=['GET'])
+@app.before_request
+def handle_preflight():
+    if request.method == "OPTIONS":
+        response = make_response()
+        response.headers.add("Access-Control-Allow-Origin", "*")
+        response.headers.add('Access-Control-Allow-Headers', "*")
+        response.headers.add('Access-Control-Allow-Methods', "*")
+        return response
+
+@app.after_request
+def after_request(response):
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization,Accept,Origin,X-Requested-With')
+    response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS,HEAD')
+    return response
+
+@app.route('/api/health', methods=['GET', 'OPTIONS'])
 def health_check():
     """Health check endpoint"""
     api_key = read_api_key()
