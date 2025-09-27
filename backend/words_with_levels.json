@@ -1,0 +1,5877 @@
+[
+  {
+    "en": "a",
+    "tr": "bir",
+    "level": "A1"
+  },
+  {
+    "en": "about",
+    "tr": "hakkında, ilgili, konusunda",
+    "level": "A1"
+  },
+  {
+    "en": "above",
+    "tr": "yukarıda",
+    "level": "A1"
+  },
+  {
+    "en": "after",
+    "tr": "sonra, ardından, daha sonra",
+    "level": "A1"
+  },
+  {
+    "en": "again",
+    "tr": "tekrar, yeniden",
+    "level": "A1"
+  },
+  {
+    "en": "age",
+    "tr": "yaş",
+    "level": "A1"
+  },
+  {
+    "en": "all",
+    "tr": "her şey, tüm, bütün",
+    "level": "A1"
+  },
+  {
+    "en": "and",
+    "tr": "ve, ile",
+    "level": "A1"
+  },
+  {
+    "en": "any",
+    "tr": "herhangi, hiç, her",
+    "level": "A1"
+  },
+  {
+    "en": "apple",
+    "tr": "elma",
+    "level": "A1"
+  },
+  {
+    "en": "arm",
+    "tr": "kol",
+    "level": "A1"
+  },
+  {
+    "en": "art",
+    "tr": "sanat",
+    "level": "A1"
+  },
+  {
+    "en": "as",
+    "tr": "gibi, olarak",
+    "level": "A1"
+  },
+  {
+    "en": "baby",
+    "tr": "bebek",
+    "level": "A1"
+  },
+  {
+    "en": "back",
+    "tr": "geri",
+    "level": "A1"
+  },
+  {
+    "en": "bag",
+    "tr": "sırt çantası",
+    "level": "A1"
+  },
+  {
+    "en": "be",
+    "tr": "olmak, var olmak",
+    "level": "A1"
+  },
+  {
+    "en": "bed",
+    "tr": "yatak",
+    "level": "A1"
+  },
+  {
+    "en": "before",
+    "tr": "önce",
+    "level": "A1"
+  },
+  {
+    "en": "big",
+    "tr": "büyük",
+    "level": "A1"
+  },
+  {
+    "en": "black",
+    "tr": "siyah",
+    "level": "A1"
+  },
+  {
+    "en": "blue",
+    "tr": "mavi",
+    "level": "A1"
+  },
+  {
+    "en": "body",
+    "tr": "vücut",
+    "level": "A1"
+  },
+  {
+    "en": "book",
+    "tr": "kitap",
+    "level": "A1"
+  },
+  {
+    "en": "boy",
+    "tr": "erkek çocuk",
+    "level": "A1"
+  },
+  {
+    "en": "but",
+    "tr": "fakat, ama, lakin",
+    "level": "A1"
+  },
+  {
+    "en": "buy",
+    "tr": "satın almak",
+    "level": "A1"
+  },
+  {
+    "en": "by",
+    "tr": "tarafından, ile, göre, vasıtasıyla",
+    "level": "A1"
+  },
+  {
+    "en": "call",
+    "tr": "aramak",
+    "level": "A1"
+  },
+  {
+    "en": "can",
+    "tr": "yapabilmek",
+    "level": "A1"
+  },
+  {
+    "en": "car",
+    "tr": "araba",
+    "level": "A1"
+  },
+  {
+    "en": "chair",
+    "tr": "sandalye",
+    "level": "A1"
+  },
+  {
+    "en": "city",
+    "tr": "şehir",
+    "level": "A1"
+  },
+  {
+    "en": "close",
+    "tr": "kapatmak",
+    "level": "A1"
+  },
+  {
+    "en": "cold",
+    "tr": "soğuk",
+    "level": "A1"
+  },
+  {
+    "en": "color",
+    "tr": "renk",
+    "level": "A1"
+  },
+  {
+    "en": "come",
+    "tr": "gelmek",
+    "level": "A1"
+  },
+  {
+    "en": "country",
+    "tr": "ülke",
+    "level": "A1"
+  },
+  {
+    "en": "day",
+    "tr": "gün",
+    "level": "A1"
+  },
+  {
+    "en": "do",
+    "tr": "yapmak",
+    "level": "A1"
+  },
+  {
+    "en": "dog",
+    "tr": "köpek",
+    "level": "A1"
+  },
+  {
+    "en": "door",
+    "tr": "kapı",
+    "level": "A1"
+  },
+  {
+    "en": "eat",
+    "tr": "yemek yemek",
+    "level": "A1"
+  },
+  {
+    "en": "end",
+    "tr": "son",
+    "level": "A1"
+  },
+  {
+    "en": "eye",
+    "tr": "göz",
+    "level": "A1"
+  },
+  {
+    "en": "family",
+    "tr": "aile",
+    "level": "A1"
+  },
+  {
+    "en": "far",
+    "tr": "uzak",
+    "level": "A1"
+  },
+  {
+    "en": "father",
+    "tr": "baba",
+    "level": "A1"
+  },
+  {
+    "en": "fly",
+    "tr": "uçmak",
+    "level": "A1"
+  },
+  {
+    "en": "food",
+    "tr": "gıda, yiyecek",
+    "level": "A1"
+  },
+  {
+    "en": "for",
+    "tr": "için",
+    "level": "A1"
+  },
+  {
+    "en": "friend",
+    "tr": "arkadaş",
+    "level": "A1"
+  },
+  {
+    "en": "gas",
+    "tr": "gaz",
+    "level": "A1"
+  },
+  {
+    "en": "get",
+    "tr": "almak",
+    "level": "A1"
+  },
+  {
+    "en": "girl",
+    "tr": "kız",
+    "level": "A1"
+  },
+  {
+    "en": "give",
+    "tr": "vermek",
+    "level": "A1"
+  },
+  {
+    "en": "go",
+    "tr": "gitmek",
+    "level": "A1"
+  },
+  {
+    "en": "good",
+    "tr": "iyi",
+    "level": "A1"
+  },
+  {
+    "en": "green",
+    "tr": "yeşil",
+    "level": "A1"
+  },
+  {
+    "en": "hand",
+    "tr": "el",
+    "level": "A1"
+  },
+  {
+    "en": "happy",
+    "tr": "mutlu",
+    "level": "A1"
+  },
+  {
+    "en": "have",
+    "tr": "sahip olmak",
+    "level": "A1"
+  },
+  {
+    "en": "he",
+    "tr": "o (erkek)",
+    "level": "A1"
+  },
+  {
+    "en": "head",
+    "tr": "kafa",
+    "level": "A1"
+  },
+  {
+    "en": "help",
+    "tr": "yardım",
+    "level": "A1"
+  },
+  {
+    "en": "her",
+    "tr": "ona (kadın)",
+    "level": "A1"
+  },
+  {
+    "en": "here",
+    "tr": "burada",
+    "level": "A1"
+  },
+  {
+    "en": "him",
+    "tr": "onu (erkek)",
+    "level": "A1"
+  },
+  {
+    "en": "his",
+    "tr": "onun (erkek",
+    "level": "A1"
+  },
+  {
+    "en": "home",
+    "tr": "ev",
+    "level": "A1"
+  },
+  {
+    "en": "hot",
+    "tr": "sıcak",
+    "level": "A1"
+  },
+  {
+    "en": "house",
+    "tr": "ev",
+    "level": "A1"
+  },
+  {
+    "en": "how",
+    "tr": "nasıl",
+    "level": "A1"
+  },
+  {
+    "en": "if",
+    "tr": "eğer",
+    "level": "A1"
+  },
+  {
+    "en": "in",
+    "tr": "içinde",
+    "level": "A1"
+  },
+  {
+    "en": "it",
+    "tr": "o (cansız)",
+    "level": "A1"
+  },
+  {
+    "en": "its",
+    "tr": "onun (cansız)",
+    "level": "A1"
+  },
+  {
+    "en": "job",
+    "tr": "meslek",
+    "level": "A1"
+  },
+  {
+    "en": "know",
+    "tr": "bilmek",
+    "level": "A1"
+  },
+  {
+    "en": "last",
+    "tr": "son",
+    "level": "A1"
+  },
+  {
+    "en": "left",
+    "tr": "ayrıldı",
+    "level": "A1"
+  },
+  {
+    "en": "leg",
+    "tr": "bacak",
+    "level": "A1"
+  },
+  {
+    "en": "lie",
+    "tr": "yalan",
+    "level": "A1"
+  },
+  {
+    "en": "like",
+    "tr": "sevmek, beğenmek",
+    "level": "A1"
+  },
+  {
+    "en": "live",
+    "tr": "canlı",
+    "level": "A1"
+  },
+  {
+    "en": "look",
+    "tr": "bakmak",
+    "level": "A1"
+  },
+  {
+    "en": "love",
+    "tr": "aşk",
+    "level": "A1"
+  },
+  {
+    "en": "make",
+    "tr": "yapmak",
+    "level": "A1"
+  },
+  {
+    "en": "man",
+    "tr": "adam, insan",
+    "level": "A1"
+  },
+  {
+    "en": "may",
+    "tr": "mayıs ayı",
+    "level": "A1"
+  },
+  {
+    "en": "me",
+    "tr": "bana, beni",
+    "level": "A1"
+  },
+  {
+    "en": "money",
+    "tr": "para",
+    "level": "A1"
+  },
+  {
+    "en": "mother",
+    "tr": "anne",
+    "level": "A1"
+  },
+  {
+    "en": "Mr",
+    "tr": "bay",
+    "level": "A1"
+  },
+  {
+    "en": "Mrs",
+    "tr": "bayan",
+    "level": "A1"
+  },
+  {
+    "en": "my",
+    "tr": "benim",
+    "level": "A1"
+  },
+  {
+    "en": "name",
+    "tr": "isim",
+    "level": "A1"
+  },
+  {
+    "en": "new",
+    "tr": "yeni",
+    "level": "A1"
+  },
+  {
+    "en": "no",
+    "tr": "hayır",
+    "level": "A1"
+  },
+  {
+    "en": "nor",
+    "tr": "ne de",
+    "level": "A1"
+  },
+  {
+    "en": "not",
+    "tr": "değil",
+    "level": "A1"
+  },
+  {
+    "en": "now",
+    "tr": "şimdi",
+    "level": "A1"
+  },
+  {
+    "en": "number",
+    "tr": "numara",
+    "level": "A1"
+  },
+  {
+    "en": "off",
+    "tr": "kapalı",
+    "level": "A1"
+  },
+  {
+    "en": "oil",
+    "tr": "yağ",
+    "level": "A1"
+  },
+  {
+    "en": "old",
+    "tr": "yaşlı, eski",
+    "level": "A1"
+  },
+  {
+    "en": "on",
+    "tr": "üzerinde",
+    "level": "A1"
+  },
+  {
+    "en": "one",
+    "tr": "bir",
+    "level": "A1"
+  },
+  {
+    "en": "open",
+    "tr": "açık",
+    "level": "A1"
+  },
+  {
+    "en": "or",
+    "tr": "veya",
+    "level": "A1"
+  },
+  {
+    "en": "our",
+    "tr": "bizim",
+    "level": "A1"
+  },
+  {
+    "en": "out",
+    "tr": "dışarı",
+    "level": "A1"
+  },
+  {
+    "en": "part",
+    "tr": "bölüm",
+    "level": "A1"
+  },
+  {
+    "en": "place",
+    "tr": "yer, mekan",
+    "level": "A1"
+  },
+  {
+    "en": "put",
+    "tr": "koymak",
+    "level": "A1"
+  },
+  {
+    "en": "red",
+    "tr": "kırmızı",
+    "level": "A1"
+  },
+  {
+    "en": "right",
+    "tr": "sağ",
+    "level": "A1"
+  },
+  {
+    "en": "room",
+    "tr": "oda",
+    "level": "A1"
+  },
+  {
+    "en": "run",
+    "tr": "koşmak",
+    "level": "A1"
+  },
+  {
+    "en": "same",
+    "tr": "aynı",
+    "level": "A1"
+  },
+  {
+    "en": "say",
+    "tr": "söylemek",
+    "level": "A1"
+  },
+  {
+    "en": "school",
+    "tr": "okul",
+    "level": "A1"
+  },
+  {
+    "en": "see",
+    "tr": "görmek",
+    "level": "A1"
+  },
+  {
+    "en": "set",
+    "tr": "ayarlamak",
+    "level": "A1"
+  },
+  {
+    "en": "she",
+    "tr": "o (kadın)",
+    "level": "A1"
+  },
+  {
+    "en": "sit",
+    "tr": "oturmak",
+    "level": "A1"
+  },
+  {
+    "en": "small",
+    "tr": "küçük",
+    "level": "A1"
+  },
+  {
+    "en": "so",
+    "tr": "yani",
+    "level": "A1"
+  },
+  {
+    "en": "some",
+    "tr": "bazı",
+    "level": "A1"
+  },
+  {
+    "en": "stand",
+    "tr": "ayakta durmak, direnmek",
+    "level": "A1"
+  },
+  {
+    "en": "table",
+    "tr": "masa, tablo",
+    "level": "A1"
+  },
+  {
+    "en": "take",
+    "tr": "almak",
+    "level": "A1"
+  },
+  {
+    "en": "that",
+    "tr": "o",
+    "level": "A1"
+  },
+  {
+    "en": "then",
+    "tr": "sonra",
+    "level": "A1"
+  },
+  {
+    "en": "there",
+    "tr": "orada",
+    "level": "A1"
+  },
+  {
+    "en": "they",
+    "tr": "onlar",
+    "level": "A1"
+  },
+  {
+    "en": "this",
+    "tr": "bu",
+    "level": "A1"
+  },
+  {
+    "en": "time",
+    "tr": "zaman",
+    "level": "A1"
+  },
+  {
+    "en": "to",
+    "tr": "mastar (mek, mak), karşı",
+    "level": "A1"
+  },
+  {
+    "en": "too",
+    "tr": "çok, fazla",
+    "level": "A1"
+  },
+  {
+    "en": "tree",
+    "tr": "ağaç",
+    "level": "A1"
+  },
+  {
+    "en": "two",
+    "tr": "iki",
+    "level": "A1"
+  },
+  {
+    "en": "up",
+    "tr": "yukarı",
+    "level": "A1"
+  },
+  {
+    "en": "us",
+    "tr": "bize",
+    "level": "A1"
+  },
+  {
+    "en": "use",
+    "tr": "kullanmak",
+    "level": "A1"
+  },
+  {
+    "en": "very",
+    "tr": "çok",
+    "level": "A1"
+  },
+  {
+    "en": "walk",
+    "tr": "yürümek",
+    "level": "A1"
+  },
+  {
+    "en": "want",
+    "tr": "istemek",
+    "level": "A1"
+  },
+  {
+    "en": "water",
+    "tr": "su",
+    "level": "A1"
+  },
+  {
+    "en": "way",
+    "tr": "yol, yön, yöntem",
+    "level": "A1"
+  },
+  {
+    "en": "we",
+    "tr": "biz",
+    "level": "A1"
+  },
+  {
+    "en": "well",
+    "tr": "daha iyi",
+    "level": "A1"
+  },
+  {
+    "en": "what",
+    "tr": "ne",
+    "level": "A1"
+  },
+  {
+    "en": "where",
+    "tr": "nerede",
+    "level": "A1"
+  },
+  {
+    "en": "which",
+    "tr": "hangi",
+    "level": "A1"
+  },
+  {
+    "en": "white",
+    "tr": "beyaz",
+    "level": "A1"
+  },
+  {
+    "en": "who",
+    "tr": "kim",
+    "level": "A1"
+  },
+  {
+    "en": "window",
+    "tr": "pencere",
+    "level": "A1"
+  },
+  {
+    "en": "with",
+    "tr": "ile",
+    "level": "A1"
+  },
+  {
+    "en": "work",
+    "tr": "çalışmak",
+    "level": "A1"
+  },
+  {
+    "en": "would",
+    "tr": "cekti, caktı",
+    "level": "A1"
+  },
+  {
+    "en": "write",
+    "tr": "yazmak",
+    "level": "A1"
+  },
+  {
+    "en": "year",
+    "tr": "yıl",
+    "level": "A1"
+  },
+  {
+    "en": "yes",
+    "tr": "evet",
+    "level": "A1"
+  },
+  {
+    "en": "yet",
+    "tr": "henüz",
+    "level": "A1"
+  },
+  {
+    "en": "you",
+    "tr": "sen",
+    "level": "A1"
+  },
+  {
+    "en": "your",
+    "tr": "senin",
+    "level": "A1"
+  },
+  {
+    "en": "zoo",
+    "tr": "hayvanat bahçesi",
+    "level": "A1"
+  },
+  {
+    "en": "ability",
+    "tr": "kabiliyet, yetenek, beceri",
+    "level": "A2"
+  },
+  {
+    "en": "able",
+    "tr": "yapabilmek, yapabilen",
+    "level": "A2"
+  },
+  {
+    "en": "accept",
+    "tr": "kabul etmek",
+    "level": "A2"
+  },
+  {
+    "en": "across",
+    "tr": "karşısında",
+    "level": "A2"
+  },
+  {
+    "en": "act",
+    "tr": "eylem, davranış",
+    "level": "A2"
+  },
+  {
+    "en": "add",
+    "tr": "eklemek, ilave etmek",
+    "level": "A2"
+  },
+  {
+    "en": "address",
+    "tr": "adres",
+    "level": "A2"
+  },
+  {
+    "en": "admit",
+    "tr": "kabul etmek, itiraf etmek",
+    "level": "A2"
+  },
+  {
+    "en": "adult",
+    "tr": "yetişkin, erişkin",
+    "level": "A2"
+  },
+  {
+    "en": "affect",
+    "tr": "etkilemek, etki etmek",
+    "level": "A2"
+  },
+  {
+    "en": "against",
+    "tr": "karşı",
+    "level": "A2"
+  },
+  {
+    "en": "agency",
+    "tr": "ajans, acenta",
+    "level": "A2"
+  },
+  {
+    "en": "agent",
+    "tr": "ajan",
+    "level": "A2"
+  },
+  {
+    "en": "ago",
+    "tr": "önce, evvel",
+    "level": "A2"
+  },
+  {
+    "en": "agree",
+    "tr": "katılmak, hem fikir olmak",
+    "level": "A2"
+  },
+  {
+    "en": "ahead",
+    "tr": "önde, ileri",
+    "level": "A2"
+  },
+  {
+    "en": "air",
+    "tr": "hava",
+    "level": "A2"
+  },
+  {
+    "en": "allow",
+    "tr": "izin vermek",
+    "level": "A2"
+  },
+  {
+    "en": "almost",
+    "tr": "neredeyse, hemen hemen",
+    "level": "A2"
+  },
+  {
+    "en": "alone",
+    "tr": "yalnız, tek başına",
+    "level": "A2"
+  },
+  {
+    "en": "along",
+    "tr": "boyunca, yanı sıra",
+    "level": "A2"
+  },
+  {
+    "en": "already",
+    "tr": "zaten",
+    "level": "A2"
+  },
+  {
+    "en": "also",
+    "tr": "ayrıca, hem de",
+    "level": "A2"
+  },
+  {
+    "en": "although",
+    "tr": "rağmen, karşın , gerçi",
+    "level": "A2"
+  },
+  {
+    "en": "always",
+    "tr": "her zaman, daima",
+    "level": "A2"
+  },
+  {
+    "en": "among",
+    "tr": "arasında, içinde",
+    "level": "A2"
+  },
+  {
+    "en": "animal",
+    "tr": "hayvan",
+    "level": "A2"
+  },
+  {
+    "en": "another",
+    "tr": "diğeri",
+    "level": "A2"
+  },
+  {
+    "en": "answer",
+    "tr": "cevap, yanıt",
+    "level": "A2"
+  },
+  {
+    "en": "anyone",
+    "tr": "kimse, herhangi biri, hiç kimse",
+    "level": "A2"
+  },
+  {
+    "en": "anything",
+    "tr": "bir şeyi herhangi bir şey, hiçbir şey",
+    "level": "A2"
+  },
+  {
+    "en": "anyway",
+    "tr": "her halükârda",
+    "level": "A2"
+  },
+  {
+    "en": "appear",
+    "tr": "görünmek, gözükmek",
+    "level": "A2"
+  },
+  {
+    "en": "apply",
+    "tr": "uygulamak, başvurmak",
+    "level": "A2"
+  },
+  {
+    "en": "april",
+    "tr": "nisan",
+    "level": "A2"
+  },
+  {
+    "en": "area",
+    "tr": "alan, bölge",
+    "level": "A2"
+  },
+  {
+    "en": "argue",
+    "tr": "tartışmak",
+    "level": "A2"
+  },
+  {
+    "en": "around",
+    "tr": "etrafında",
+    "level": "A2"
+  },
+  {
+    "en": "arrive",
+    "tr": "varmak, ulaşmak",
+    "level": "A2"
+  },
+  {
+    "en": "article",
+    "tr": "makale, yazı",
+    "level": "A2"
+  },
+  {
+    "en": "artist",
+    "tr": "sanatçı",
+    "level": "A2"
+  },
+  {
+    "en": "ask",
+    "tr": "sormak, istemek",
+    "level": "A2"
+  },
+  {
+    "en": "assume",
+    "tr": "varsaymak, farzetmek",
+    "level": "A2"
+  },
+  {
+    "en": "attack",
+    "tr": "saldırı, atak",
+    "level": "A2"
+  },
+  {
+    "en": "author",
+    "tr": "yazar",
+    "level": "A2"
+  },
+  {
+    "en": "avoid",
+    "tr": "önlemek, kaçınmak",
+    "level": "A2"
+  },
+  {
+    "en": "away",
+    "tr": "uzak, uzakta",
+    "level": "A2"
+  },
+  {
+    "en": "bad",
+    "tr": "kötü",
+    "level": "A2"
+  },
+  {
+    "en": "ball",
+    "tr": "top",
+    "level": "A2"
+  },
+  {
+    "en": "bank",
+    "tr": "banka",
+    "level": "A2"
+  },
+  {
+    "en": "bar",
+    "tr": "bar",
+    "level": "A2"
+  },
+  {
+    "en": "base",
+    "tr": "üs, temel, baz",
+    "level": "A2"
+  },
+  {
+    "en": "beat",
+    "tr": "dövmek, yenmek",
+    "level": "A2"
+  },
+  {
+    "en": "beautiful",
+    "tr": "güzel",
+    "level": "A2"
+  },
+  {
+    "en": "because",
+    "tr": "çünkü",
+    "level": "A2"
+  },
+  {
+    "en": "become",
+    "tr": "olmak, haline gelmek",
+    "level": "A2"
+  },
+  {
+    "en": "begin",
+    "tr": "başlamak, başlatmak",
+    "level": "A2"
+  },
+  {
+    "en": "behind",
+    "tr": "arkasında, gerisinde",
+    "level": "A2"
+  },
+  {
+    "en": "believe",
+    "tr": "inanmak",
+    "level": "A2"
+  },
+  {
+    "en": "benefit",
+    "tr": "yarar, fayda",
+    "level": "A2"
+  },
+  {
+    "en": "best",
+    "tr": "en iyi, en iyisi, en",
+    "level": "A2"
+  },
+  {
+    "en": "better",
+    "tr": "daha iyi, daha güzel, daha iyi şekilde",
+    "level": "A2"
+  },
+  {
+    "en": "between",
+    "tr": "arasında, aralarında",
+    "level": "A2"
+  },
+  {
+    "en": "beyond",
+    "tr": "ötesinde, öte",
+    "level": "A2"
+  },
+  {
+    "en": "bill",
+    "tr": "fatura",
+    "level": "A2"
+  },
+  {
+    "en": "billion",
+    "tr": "milyar",
+    "level": "A2"
+  },
+  {
+    "en": "blood",
+    "tr": "kan",
+    "level": "A2"
+  },
+  {
+    "en": "board",
+    "tr": "yazı tahtası",
+    "level": "A2"
+  },
+  {
+    "en": "born",
+    "tr": "doğmuş, doğum",
+    "level": "A2"
+  },
+  {
+    "en": "both",
+    "tr": "her ikisi de, ikisi de",
+    "level": "A2"
+  },
+  {
+    "en": "box",
+    "tr": "kutu",
+    "level": "A2"
+  },
+  {
+    "en": "break",
+    "tr": "kırmak",
+    "level": "A2"
+  },
+  {
+    "en": "bring",
+    "tr": "getirmek",
+    "level": "A2"
+  },
+  {
+    "en": "brother",
+    "tr": "erkek kardeş",
+    "level": "A2"
+  },
+  {
+    "en": "budget",
+    "tr": "bütçe",
+    "level": "A2"
+  },
+  {
+    "en": "build",
+    "tr": "inşa etmek",
+    "level": "A2"
+  },
+  {
+    "en": "building",
+    "tr": "bina",
+    "level": "A2"
+  },
+  {
+    "en": "business",
+    "tr": "iş",
+    "level": "A2"
+  },
+  {
+    "en": "camera",
+    "tr": "kamera",
+    "level": "A2"
+  },
+  {
+    "en": "cancer",
+    "tr": "kanser",
+    "level": "A2"
+  },
+  {
+    "en": "capital",
+    "tr": "başkent",
+    "level": "A2"
+  },
+  {
+    "en": "card",
+    "tr": "kart",
+    "level": "A2"
+  },
+  {
+    "en": "care",
+    "tr": "bakım",
+    "level": "A2"
+  },
+  {
+    "en": "carry",
+    "tr": "taşımak",
+    "level": "A2"
+  },
+  {
+    "en": "case",
+    "tr": "dava",
+    "level": "A2"
+  },
+  {
+    "en": "catch",
+    "tr": "yakalamak",
+    "level": "A2"
+  },
+  {
+    "en": "cause",
+    "tr": "sebep olmak",
+    "level": "A2"
+  },
+  {
+    "en": "cell",
+    "tr": "hücre",
+    "level": "A2"
+  },
+  {
+    "en": "center",
+    "tr": "merkez",
+    "level": "A2"
+  },
+  {
+    "en": "central",
+    "tr": "merkezi",
+    "level": "A2"
+  },
+  {
+    "en": "century",
+    "tr": "yüzyıl",
+    "level": "A2"
+  },
+  {
+    "en": "certain",
+    "tr": "belirli, kesin",
+    "level": "A2"
+  },
+  {
+    "en": "chance",
+    "tr": "şans",
+    "level": "A2"
+  },
+  {
+    "en": "change",
+    "tr": "değişiklik",
+    "level": "A2"
+  },
+  {
+    "en": "character",
+    "tr": "karakter",
+    "level": "A2"
+  },
+  {
+    "en": "charge",
+    "tr": "şarj etmek",
+    "level": "A2"
+  },
+  {
+    "en": "check",
+    "tr": "kontrol etmek, denetlemek",
+    "level": "A2"
+  },
+  {
+    "en": "child",
+    "tr": "çocuk",
+    "level": "A2"
+  },
+  {
+    "en": "choice",
+    "tr": "seçim, seçenek",
+    "level": "A2"
+  },
+  {
+    "en": "choose",
+    "tr": "seçmek",
+    "level": "A2"
+  },
+  {
+    "en": "church",
+    "tr": "kilise",
+    "level": "A2"
+  },
+  {
+    "en": "citizen",
+    "tr": "vatandaş",
+    "level": "A2"
+  },
+  {
+    "en": "civil",
+    "tr": "sivil",
+    "level": "A2"
+  },
+  {
+    "en": "claim",
+    "tr": "iddia etmek, iddia",
+    "level": "A2"
+  },
+  {
+    "en": "class",
+    "tr": "sınıf",
+    "level": "A2"
+  },
+  {
+    "en": "clear",
+    "tr": "temiz, açık",
+    "level": "A2"
+  },
+  {
+    "en": "clearly",
+    "tr": "açıkça",
+    "level": "A2"
+  },
+  {
+    "en": "coach",
+    "tr": "koç",
+    "level": "A2"
+  },
+  {
+    "en": "college",
+    "tr": "kolej",
+    "level": "A2"
+  },
+  {
+    "en": "Come on",
+    "tr": "Hadi ama",
+    "level": "A2"
+  },
+  {
+    "en": "common",
+    "tr": "ortak",
+    "level": "A2"
+  },
+  {
+    "en": "company",
+    "tr": "şirket",
+    "level": "A2"
+  },
+  {
+    "en": "computer",
+    "tr": "bilgisayar",
+    "level": "A2"
+  },
+  {
+    "en": "concern",
+    "tr": "ilişkisi olmak, ait olmak, ilgilendirmek",
+    "level": "A2"
+  },
+  {
+    "en": "condition",
+    "tr": "şart",
+    "level": "A2"
+  },
+  {
+    "en": "contain",
+    "tr": "içermek",
+    "level": "A2"
+  },
+  {
+    "en": "continue",
+    "tr": "devam etmek",
+    "level": "A2"
+  },
+  {
+    "en": "control",
+    "tr": "kontrol",
+    "level": "A2"
+  },
+  {
+    "en": "cost",
+    "tr": "maliyet",
+    "level": "A2"
+  },
+  {
+    "en": "couple",
+    "tr": "çift",
+    "level": "A2"
+  },
+  {
+    "en": "course",
+    "tr": "ders",
+    "level": "A2"
+  },
+  {
+    "en": "court",
+    "tr": "mahkeme",
+    "level": "A2"
+  },
+  {
+    "en": "cover",
+    "tr": "örtmek",
+    "level": "A2"
+  },
+  {
+    "en": "create",
+    "tr": "yaratmak",
+    "level": "A2"
+  },
+  {
+    "en": "crime",
+    "tr": "suç",
+    "level": "A2"
+  },
+  {
+    "en": "culture",
+    "tr": "kültür",
+    "level": "A2"
+  },
+  {
+    "en": "cup",
+    "tr": "fincan",
+    "level": "A2"
+  },
+  {
+    "en": "current",
+    "tr": "şu andaki",
+    "level": "A2"
+  },
+  {
+    "en": "cut",
+    "tr": "kesmek",
+    "level": "A2"
+  },
+  {
+    "en": "dark",
+    "tr": "karanlık",
+    "level": "A2"
+  },
+  {
+    "en": "data",
+    "tr": "veri",
+    "level": "A2"
+  },
+  {
+    "en": "dead",
+    "tr": "ölü",
+    "level": "A2"
+  },
+  {
+    "en": "deal",
+    "tr": "anlaşmak",
+    "level": "A2"
+  },
+  {
+    "en": "death",
+    "tr": "ölüm",
+    "level": "A2"
+  },
+  {
+    "en": "debate",
+    "tr": "müzakere, tartışma",
+    "level": "A2"
+  },
+  {
+    "en": "decade",
+    "tr": "on yıl",
+    "level": "A2"
+  },
+  {
+    "en": "decide",
+    "tr": "karar vermek",
+    "level": "A2"
+  },
+  {
+    "en": "decision",
+    "tr": "karar",
+    "level": "A2"
+  },
+  {
+    "en": "deep",
+    "tr": "derin",
+    "level": "A2"
+  },
+  {
+    "en": "defense",
+    "tr": "savunma",
+    "level": "A2"
+  },
+  {
+    "en": "describe",
+    "tr": "tanımlamak",
+    "level": "A2"
+  },
+  {
+    "en": "design",
+    "tr": "tasarım",
+    "level": "A2"
+  },
+  {
+    "en": "despite",
+    "tr": "rağmen, aksine",
+    "level": "A2"
+  },
+  {
+    "en": "detail",
+    "tr": "ayrıntı",
+    "level": "A2"
+  },
+  {
+    "en": "develop",
+    "tr": "geliştirmek",
+    "level": "A2"
+  },
+  {
+    "en": "development",
+    "tr": "gelişim, kalkınma",
+    "level": "A2"
+  },
+  {
+    "en": "die",
+    "tr": "ölmek",
+    "level": "A2"
+  },
+  {
+    "en": "difference",
+    "tr": "fark",
+    "level": "A2"
+  },
+  {
+    "en": "different",
+    "tr": "farklı",
+    "level": "A2"
+  },
+  {
+    "en": "difficult",
+    "tr": "zor",
+    "level": "A2"
+  },
+  {
+    "en": "dinner",
+    "tr": "akşam yemeği",
+    "level": "A2"
+  },
+  {
+    "en": "direction",
+    "tr": "yön",
+    "level": "A2"
+  },
+  {
+    "en": "doctor",
+    "tr": "doktor",
+    "level": "A2"
+  },
+  {
+    "en": "down",
+    "tr": "aşağı",
+    "level": "A2"
+  },
+  {
+    "en": "draw",
+    "tr": "çizmek",
+    "level": "A2"
+  },
+  {
+    "en": "dream",
+    "tr": "rüya",
+    "level": "A2"
+  },
+  {
+    "en": "drive",
+    "tr": "sürmek",
+    "level": "A2"
+  },
+  {
+    "en": "drop",
+    "tr": "düşürmek",
+    "level": "A2"
+  },
+  {
+    "en": "drug",
+    "tr": "uyuşturucu",
+    "level": "A2"
+  },
+  {
+    "en": "during",
+    "tr": "sırasında",
+    "level": "A2"
+  },
+  {
+    "en": "each",
+    "tr": "her biri",
+    "level": "A2"
+  },
+  {
+    "en": "early",
+    "tr": "erken",
+    "level": "A2"
+  },
+  {
+    "en": "east",
+    "tr": "doğu",
+    "level": "A2"
+  },
+  {
+    "en": "easy",
+    "tr": "kolay",
+    "level": "A2"
+  },
+  {
+    "en": "economy",
+    "tr": "ekonomi",
+    "level": "A2"
+  },
+  {
+    "en": "edge",
+    "tr": "kenar, kıyı",
+    "level": "A2"
+  },
+  {
+    "en": "education",
+    "tr": "eğitim",
+    "level": "A2"
+  },
+  {
+    "en": "effect",
+    "tr": "efekt",
+    "level": "A2"
+  },
+  {
+    "en": "effort",
+    "tr": "çaba",
+    "level": "A2"
+  },
+  {
+    "en": "eight",
+    "tr": "sekiz",
+    "level": "A2"
+  },
+  {
+    "en": "either",
+    "tr": "ya",
+    "level": "A2"
+  },
+  {
+    "en": "election",
+    "tr": "seçim",
+    "level": "A2"
+  },
+  {
+    "en": "else",
+    "tr": "başka",
+    "level": "A2"
+  },
+  {
+    "en": "employee",
+    "tr": "çalışan",
+    "level": "A2"
+  },
+  {
+    "en": "energy",
+    "tr": "enerji",
+    "level": "A2"
+  },
+  {
+    "en": "enjoy",
+    "tr": "keyif almak",
+    "level": "A2"
+  },
+  {
+    "en": "enough",
+    "tr": "yeterli",
+    "level": "A2"
+  },
+  {
+    "en": "enter",
+    "tr": "girmek, katılmak",
+    "level": "A2"
+  },
+  {
+    "en": "entire",
+    "tr": "tamamı",
+    "level": "A2"
+  },
+  {
+    "en": "environment",
+    "tr": "çevre",
+    "level": "A2"
+  },
+  {
+    "en": "especially",
+    "tr": "özellikle",
+    "level": "A2"
+  },
+  {
+    "en": "establish",
+    "tr": "kurmak",
+    "level": "A2"
+  },
+  {
+    "en": "evening",
+    "tr": "akşam",
+    "level": "A2"
+  },
+  {
+    "en": "event",
+    "tr": "olay",
+    "level": "A2"
+  },
+  {
+    "en": "ever",
+    "tr": "hiç",
+    "level": "A2"
+  },
+  {
+    "en": "every",
+    "tr": "her",
+    "level": "A2"
+  },
+  {
+    "en": "everyone",
+    "tr": "herkes, her biri",
+    "level": "A2"
+  },
+  {
+    "en": "everything",
+    "tr": "her şey",
+    "level": "A2"
+  },
+  {
+    "en": "exactly",
+    "tr": "kesinlikle",
+    "level": "A2"
+  },
+  {
+    "en": "example",
+    "tr": "örnek",
+    "level": "A2"
+  },
+  {
+    "en": "executive",
+    "tr": "yönetici",
+    "level": "A2"
+  },
+  {
+    "en": "exist",
+    "tr": "var olmak",
+    "level": "A2"
+  },
+  {
+    "en": "expect",
+    "tr": "ummak",
+    "level": "A2"
+  },
+  {
+    "en": "experience",
+    "tr": "deneyim",
+    "level": "A2"
+  },
+  {
+    "en": "expert",
+    "tr": "uzman",
+    "level": "A2"
+  },
+  {
+    "en": "explain",
+    "tr": "açıklamak",
+    "level": "A2"
+  },
+  {
+    "en": "face",
+    "tr": "yüz",
+    "level": "A2"
+  },
+  {
+    "en": "fact",
+    "tr": "gerçek",
+    "level": "A2"
+  },
+  {
+    "en": "factor",
+    "tr": "faktör",
+    "level": "A2"
+  },
+  {
+    "en": "fail",
+    "tr": "başarısız",
+    "level": "A2"
+  },
+  {
+    "en": "fall",
+    "tr": "düşmek",
+    "level": "A2"
+  },
+  {
+    "en": "fast",
+    "tr": "hızlı",
+    "level": "A2"
+  },
+  {
+    "en": "fear",
+    "tr": "korku",
+    "level": "A2"
+  },
+  {
+    "en": "federal",
+    "tr": "federal",
+    "level": "A2"
+  },
+  {
+    "en": "feel",
+    "tr": "hissetmek",
+    "level": "A2"
+  },
+  {
+    "en": "feeling",
+    "tr": "duygu",
+    "level": "A2"
+  },
+  {
+    "en": "few",
+    "tr": "az",
+    "level": "A2"
+  },
+  {
+    "en": "field",
+    "tr": "tarla, alan",
+    "level": "A2"
+  },
+  {
+    "en": "fight",
+    "tr": "kavga",
+    "level": "A2"
+  },
+  {
+    "en": "figure",
+    "tr": "şekil",
+    "level": "A2"
+  },
+  {
+    "en": "fill",
+    "tr": "doldurmak",
+    "level": "A2"
+  },
+  {
+    "en": "film",
+    "tr": "film",
+    "level": "A2"
+  },
+  {
+    "en": "final",
+    "tr": "final, nihai",
+    "level": "A2"
+  },
+  {
+    "en": "finally",
+    "tr": "en sonunda",
+    "level": "A2"
+  },
+  {
+    "en": "financial",
+    "tr": "mali",
+    "level": "A2"
+  },
+  {
+    "en": "find",
+    "tr": "bulmak",
+    "level": "A2"
+  },
+  {
+    "en": "fine",
+    "tr": "iyi, güzel",
+    "level": "A2"
+  },
+  {
+    "en": "finger",
+    "tr": "parmak",
+    "level": "A2"
+  },
+  {
+    "en": "finish",
+    "tr": "bitiş",
+    "level": "A2"
+  },
+  {
+    "en": "fire",
+    "tr": "ateş",
+    "level": "A2"
+  },
+  {
+    "en": "firm",
+    "tr": "firma",
+    "level": "A2"
+  },
+  {
+    "en": "first",
+    "tr": "ilk",
+    "level": "A2"
+  },
+  {
+    "en": "fish",
+    "tr": "balık",
+    "level": "A2"
+  },
+  {
+    "en": "five",
+    "tr": "beş",
+    "level": "A2"
+  },
+  {
+    "en": "floor",
+    "tr": "zemin",
+    "level": "A2"
+  },
+  {
+    "en": "focus",
+    "tr": "odaklanmak",
+    "level": "A2"
+  },
+  {
+    "en": "follow",
+    "tr": "takip etmek",
+    "level": "A2"
+  },
+  {
+    "en": "foot",
+    "tr": "ayak",
+    "level": "A2"
+  },
+  {
+    "en": "force",
+    "tr": "kuvvet",
+    "level": "A2"
+  },
+  {
+    "en": "foreign",
+    "tr": "yabancı",
+    "level": "A2"
+  },
+  {
+    "en": "forget",
+    "tr": "unutmak",
+    "level": "A2"
+  },
+  {
+    "en": "form",
+    "tr": "form",
+    "level": "A2"
+  },
+  {
+    "en": "former",
+    "tr": "önceki, eski",
+    "level": "A2"
+  },
+  {
+    "en": "forward",
+    "tr": "Ileri",
+    "level": "A2"
+  },
+  {
+    "en": "four",
+    "tr": "dört",
+    "level": "A2"
+  },
+  {
+    "en": "free",
+    "tr": "ücretsiz",
+    "level": "A2"
+  },
+  {
+    "en": "front",
+    "tr": "ön",
+    "level": "A2"
+  },
+  {
+    "en": "full",
+    "tr": "tam",
+    "level": "A2"
+  },
+  {
+    "en": "fund",
+    "tr": "fon, sermaye",
+    "level": "A2"
+  },
+  {
+    "en": "future",
+    "tr": "gelecek",
+    "level": "A2"
+  },
+  {
+    "en": "game",
+    "tr": "oyun",
+    "level": "A2"
+  },
+  {
+    "en": "garden",
+    "tr": "bahçe",
+    "level": "A2"
+  },
+  {
+    "en": "general",
+    "tr": "genel",
+    "level": "A2"
+  },
+  {
+    "en": "generation",
+    "tr": "nesil",
+    "level": "A2"
+  },
+  {
+    "en": "glass",
+    "tr": "bardak",
+    "level": "A2"
+  },
+  {
+    "en": "goal",
+    "tr": "hedef",
+    "level": "A2"
+  },
+  {
+    "en": "Goodbye",
+    "tr": "Hoşça kal",
+    "level": "A2"
+  },
+  {
+    "en": "government",
+    "tr": "hükümet",
+    "level": "A2"
+  },
+  {
+    "en": "great",
+    "tr": "harika",
+    "level": "A2"
+  },
+  {
+    "en": "ground",
+    "tr": "zemin",
+    "level": "A2"
+  },
+  {
+    "en": "group",
+    "tr": "grup",
+    "level": "A2"
+  },
+  {
+    "en": "grow",
+    "tr": "büyümek",
+    "level": "A2"
+  },
+  {
+    "en": "growth",
+    "tr": "büyüme",
+    "level": "A2"
+  },
+  {
+    "en": "guess",
+    "tr": "tahmin",
+    "level": "A2"
+  },
+  {
+    "en": "gun",
+    "tr": "silah",
+    "level": "A2"
+  },
+  {
+    "en": "guy",
+    "tr": "adam",
+    "level": "A2"
+  },
+  {
+    "en": "hair",
+    "tr": "saç",
+    "level": "A2"
+  },
+  {
+    "en": "half",
+    "tr": "yarım",
+    "level": "A2"
+  },
+  {
+    "en": "hang",
+    "tr": "asmak",
+    "level": "A2"
+  },
+  {
+    "en": "happen",
+    "tr": "olmak",
+    "level": "A2"
+  },
+  {
+    "en": "hard",
+    "tr": "zor",
+    "level": "A2"
+  },
+  {
+    "en": "health",
+    "tr": "sağlık",
+    "level": "A2"
+  },
+  {
+    "en": "hear",
+    "tr": "duymak",
+    "level": "A2"
+  },
+  {
+    "en": "heart",
+    "tr": "kalp",
+    "level": "A2"
+  },
+  {
+    "en": "heat",
+    "tr": "sıcaklık",
+    "level": "A2"
+  },
+  {
+    "en": "heavy",
+    "tr": "ağır",
+    "level": "A2"
+  },
+  {
+    "en": "herself",
+    "tr": "kendini",
+    "level": "A2"
+  },
+  {
+    "en": "high",
+    "tr": "yüksek",
+    "level": "A2"
+  },
+  {
+    "en": "himself",
+    "tr": "kendisi",
+    "level": "A2"
+  },
+  {
+    "en": "history",
+    "tr": "tarih",
+    "level": "A2"
+  },
+  {
+    "en": "hit",
+    "tr": "çarmak",
+    "level": "A2"
+  },
+  {
+    "en": "hold",
+    "tr": "tutmak",
+    "level": "A2"
+  },
+  {
+    "en": "hope",
+    "tr": "umut",
+    "level": "A2"
+  },
+  {
+    "en": "hospital",
+    "tr": "hastane",
+    "level": "A2"
+  },
+  {
+    "en": "hotel",
+    "tr": "otel",
+    "level": "A2"
+  },
+  {
+    "en": "hour",
+    "tr": "saat",
+    "level": "A2"
+  },
+  {
+    "en": "however",
+    "tr": "ancak",
+    "level": "A2"
+  },
+  {
+    "en": "huge",
+    "tr": "kocaman",
+    "level": "A2"
+  },
+  {
+    "en": "human",
+    "tr": "insan",
+    "level": "A2"
+  },
+  {
+    "en": "hundred",
+    "tr": "yüz",
+    "level": "A2"
+  },
+  {
+    "en": "husband",
+    "tr": "koca",
+    "level": "A2"
+  },
+  {
+    "en": "I know",
+    "tr": "Biliyorum",
+    "level": "A2"
+  },
+  {
+    "en": "idea",
+    "tr": "fikir",
+    "level": "A2"
+  },
+  {
+    "en": "identify",
+    "tr": "belirlemek, tanımak, tanımlamak",
+    "level": "A2"
+  },
+  {
+    "en": "image",
+    "tr": "görüntü, resim",
+    "level": "A2"
+  },
+  {
+    "en": "imagine",
+    "tr": "hayal etmek",
+    "level": "A2"
+  },
+  {
+    "en": "impact",
+    "tr": "etki",
+    "level": "A2"
+  },
+  {
+    "en": "important",
+    "tr": "önemli",
+    "level": "A2"
+  },
+  {
+    "en": "improve",
+    "tr": "iyileştirmek, iyi hale getirmek",
+    "level": "A2"
+  },
+  {
+    "en": "include",
+    "tr": "dahil etmek",
+    "level": "A2"
+  },
+  {
+    "en": "including",
+    "tr": "dahil olmak üzere",
+    "level": "A2"
+  },
+  {
+    "en": "increase",
+    "tr": "artırmak",
+    "level": "A2"
+  },
+  {
+    "en": "indeed",
+    "tr": "aslında",
+    "level": "A2"
+  },
+  {
+    "en": "indicate",
+    "tr": "belirtmek",
+    "level": "A2"
+  },
+  {
+    "en": "individual",
+    "tr": "bireysel",
+    "level": "A2"
+  },
+  {
+    "en": "industry",
+    "tr": "endüstri",
+    "level": "A2"
+  },
+  {
+    "en": "information",
+    "tr": "bilgi",
+    "level": "A2"
+  },
+  {
+    "en": "inside",
+    "tr": "Içeride",
+    "level": "A2"
+  },
+  {
+    "en": "instead",
+    "tr": "yerine",
+    "level": "A2"
+  },
+  {
+    "en": "institution",
+    "tr": "kurum",
+    "level": "A2"
+  },
+  {
+    "en": "interest",
+    "tr": "faiz",
+    "level": "A2"
+  },
+  {
+    "en": "interesting",
+    "tr": "ilginç",
+    "level": "A2"
+  },
+  {
+    "en": "international",
+    "tr": "uluslararası",
+    "level": "A2"
+  },
+  {
+    "en": "interview",
+    "tr": "röportaj",
+    "level": "A2"
+  },
+  {
+    "en": "into",
+    "tr": "Içine",
+    "level": "A2"
+  },
+  {
+    "en": "investment",
+    "tr": "yatırım",
+    "level": "A2"
+  },
+  {
+    "en": "involve",
+    "tr": "içermek, kapsamak",
+    "level": "A2"
+  },
+  {
+    "en": "issue",
+    "tr": "sorun",
+    "level": "A2"
+  },
+  {
+    "en": "item",
+    "tr": "öğe",
+    "level": "A2"
+  },
+  {
+    "en": "itself",
+    "tr": "kendisi",
+    "level": "A2"
+  },
+  {
+    "en": "join",
+    "tr": "katılmak",
+    "level": "A2"
+  },
+  {
+    "en": "Join me",
+    "tr": "Katıl bana",
+    "level": "A2"
+  },
+  {
+    "en": "just",
+    "tr": "sadece",
+    "level": "A2"
+  },
+  {
+    "en": "keep",
+    "tr": "tutmak",
+    "level": "A2"
+  },
+  {
+    "en": "key",
+    "tr": "anahtar",
+    "level": "A2"
+  },
+  {
+    "en": "kid",
+    "tr": "çocuk",
+    "level": "A2"
+  },
+  {
+    "en": "kill",
+    "tr": "öldürmek",
+    "level": "A2"
+  },
+  {
+    "en": "kind",
+    "tr": "tür",
+    "level": "A2"
+  },
+  {
+    "en": "kitchen",
+    "tr": "mutfak",
+    "level": "A2"
+  },
+  {
+    "en": "land",
+    "tr": "arazi, toprak",
+    "level": "A2"
+  },
+  {
+    "en": "language",
+    "tr": "dil",
+    "level": "A2"
+  },
+  {
+    "en": "large",
+    "tr": "geniş",
+    "level": "A2"
+  },
+  {
+    "en": "late",
+    "tr": "geç",
+    "level": "A2"
+  },
+  {
+    "en": "later",
+    "tr": "sonra",
+    "level": "A2"
+  },
+  {
+    "en": "laugh",
+    "tr": "gülmek",
+    "level": "A2"
+  },
+  {
+    "en": "law",
+    "tr": "hukuk",
+    "level": "A2"
+  },
+  {
+    "en": "lawyer",
+    "tr": "avukat",
+    "level": "A2"
+  },
+  {
+    "en": "lay",
+    "tr": "yatırmak",
+    "level": "A2"
+  },
+  {
+    "en": "lead",
+    "tr": "öncülük etmek",
+    "level": "A2"
+  },
+  {
+    "en": "leader",
+    "tr": "lider",
+    "level": "A2"
+  },
+  {
+    "en": "learn",
+    "tr": "öğrenmek",
+    "level": "A2"
+  },
+  {
+    "en": "least",
+    "tr": "en az",
+    "level": "A2"
+  },
+  {
+    "en": "leave",
+    "tr": "ayrılmak",
+    "level": "A2"
+  },
+  {
+    "en": "legal",
+    "tr": "yasal",
+    "level": "A2"
+  },
+  {
+    "en": "less",
+    "tr": "az",
+    "level": "A2"
+  },
+  {
+    "en": "let",
+    "tr": "Izin vermek",
+    "level": "A2"
+  },
+  {
+    "en": "letter",
+    "tr": "mektup",
+    "level": "A2"
+  },
+  {
+    "en": "level",
+    "tr": "seviye",
+    "level": "A2"
+  },
+  {
+    "en": "life",
+    "tr": "hayat",
+    "level": "A2"
+  },
+  {
+    "en": "light",
+    "tr": "ışık",
+    "level": "A2"
+  },
+  {
+    "en": "likely",
+    "tr": "muhtemel",
+    "level": "A2"
+  },
+  {
+    "en": "line",
+    "tr": "çizgi, sıra",
+    "level": "A2"
+  },
+  {
+    "en": "Line up",
+    "tr": "Sıraya gir",
+    "level": "A2"
+  },
+  {
+    "en": "list",
+    "tr": "liste",
+    "level": "A2"
+  },
+  {
+    "en": "listen",
+    "tr": "dinlemek",
+    "level": "A2"
+  },
+  {
+    "en": "little",
+    "tr": "küçük",
+    "level": "A2"
+  },
+  {
+    "en": "local",
+    "tr": "yerel",
+    "level": "A2"
+  },
+  {
+    "en": "long",
+    "tr": "uzun",
+    "level": "A2"
+  },
+  {
+    "en": "lose",
+    "tr": "kaybetmek",
+    "level": "A2"
+  },
+  {
+    "en": "loss",
+    "tr": "kayıp",
+    "level": "A2"
+  },
+  {
+    "en": "lot",
+    "tr": "çok",
+    "level": "A2"
+  },
+  {
+    "en": "low",
+    "tr": "düşük",
+    "level": "A2"
+  },
+  {
+    "en": "machine",
+    "tr": "makine",
+    "level": "A2"
+  },
+  {
+    "en": "main",
+    "tr": "ana",
+    "level": "A2"
+  },
+  {
+    "en": "maintain",
+    "tr": "sürdürmek",
+    "level": "A2"
+  },
+  {
+    "en": "manage",
+    "tr": "yönetmek",
+    "level": "A2"
+  },
+  {
+    "en": "management",
+    "tr": "yönetim",
+    "level": "A2"
+  },
+  {
+    "en": "manager",
+    "tr": "müdür, yönetici",
+    "level": "A2"
+  },
+  {
+    "en": "many",
+    "tr": "çok",
+    "level": "A2"
+  },
+  {
+    "en": "market",
+    "tr": "pazar",
+    "level": "A2"
+  },
+  {
+    "en": "marriage",
+    "tr": "evlilik",
+    "level": "A2"
+  },
+  {
+    "en": "material",
+    "tr": "malzeme",
+    "level": "A2"
+  },
+  {
+    "en": "matter",
+    "tr": "konu, mesele",
+    "level": "A2"
+  },
+  {
+    "en": "maybe",
+    "tr": "belki, olabilir",
+    "level": "A2"
+  },
+  {
+    "en": "mean",
+    "tr": "anlamına gelmek",
+    "level": "A2"
+  },
+  {
+    "en": "measure",
+    "tr": "ölçmek",
+    "level": "A2"
+  },
+  {
+    "en": "media",
+    "tr": "medya",
+    "level": "A2"
+  },
+  {
+    "en": "medical",
+    "tr": "tıbbi",
+    "level": "A2"
+  },
+  {
+    "en": "meet",
+    "tr": "buluşmak",
+    "level": "A2"
+  },
+  {
+    "en": "meeting",
+    "tr": "toplantı",
+    "level": "A2"
+  },
+  {
+    "en": "member",
+    "tr": "üye",
+    "level": "A2"
+  },
+  {
+    "en": "memory",
+    "tr": "hafıza",
+    "level": "A2"
+  },
+  {
+    "en": "mention",
+    "tr": "değinmek, söz etmek",
+    "level": "A2"
+  },
+  {
+    "en": "message",
+    "tr": "mesaj",
+    "level": "A2"
+  },
+  {
+    "en": "method",
+    "tr": "yöntem",
+    "level": "A2"
+  },
+  {
+    "en": "middle",
+    "tr": "orta",
+    "level": "A2"
+  },
+  {
+    "en": "might",
+    "tr": "belki",
+    "level": "A2"
+  },
+  {
+    "en": "military",
+    "tr": "askeri",
+    "level": "A2"
+  },
+  {
+    "en": "million",
+    "tr": "milyon",
+    "level": "A2"
+  },
+  {
+    "en": "mind",
+    "tr": "zihin",
+    "level": "A2"
+  },
+  {
+    "en": "minute",
+    "tr": "dakika",
+    "level": "A2"
+  },
+  {
+    "en": "miss",
+    "tr": "özlemek",
+    "level": "A2"
+  },
+  {
+    "en": "mission",
+    "tr": "misyon",
+    "level": "A2"
+  },
+  {
+    "en": "model",
+    "tr": "model",
+    "level": "A2"
+  },
+  {
+    "en": "modern",
+    "tr": "modern",
+    "level": "A2"
+  },
+  {
+    "en": "moment",
+    "tr": "an",
+    "level": "A2"
+  },
+  {
+    "en": "month",
+    "tr": "ay",
+    "level": "A2"
+  },
+  {
+    "en": "more",
+    "tr": "daha",
+    "level": "A2"
+  },
+  {
+    "en": "morning",
+    "tr": "sabah",
+    "level": "A2"
+  },
+  {
+    "en": "most",
+    "tr": "çoğu",
+    "level": "A2"
+  },
+  {
+    "en": "mouth",
+    "tr": "ağız",
+    "level": "A2"
+  },
+  {
+    "en": "move",
+    "tr": "hareket etmek",
+    "level": "A2"
+  },
+  {
+    "en": "movement",
+    "tr": "hareket",
+    "level": "A2"
+  },
+  {
+    "en": "movie",
+    "tr": "film",
+    "level": "A2"
+  },
+  {
+    "en": "much",
+    "tr": "çok",
+    "level": "A2"
+  },
+  {
+    "en": "music",
+    "tr": "müzik",
+    "level": "A2"
+  },
+  {
+    "en": "must",
+    "tr": "zorunlu",
+    "level": "A2"
+  },
+  {
+    "en": "myself",
+    "tr": "kendim",
+    "level": "A2"
+  },
+  {
+    "en": "nation",
+    "tr": "ulus",
+    "level": "A2"
+  },
+  {
+    "en": "national",
+    "tr": "ulusal",
+    "level": "A2"
+  },
+  {
+    "en": "natural",
+    "tr": "doğal",
+    "level": "A2"
+  },
+  {
+    "en": "nature",
+    "tr": "doğa",
+    "level": "A2"
+  },
+  {
+    "en": "near",
+    "tr": "yakın",
+    "level": "A2"
+  },
+  {
+    "en": "nearly",
+    "tr": "neredeyse",
+    "level": "A2"
+  },
+  {
+    "en": "necessary",
+    "tr": "gerekli",
+    "level": "A2"
+  },
+  {
+    "en": "need",
+    "tr": "ihtiyaç, gereksinim",
+    "level": "A2"
+  },
+  {
+    "en": "network",
+    "tr": "ağ",
+    "level": "A2"
+  },
+  {
+    "en": "never",
+    "tr": "asla",
+    "level": "A2"
+  },
+  {
+    "en": "news",
+    "tr": "haber",
+    "level": "A2"
+  },
+  {
+    "en": "newspaper",
+    "tr": "gazete",
+    "level": "A2"
+  },
+  {
+    "en": "next",
+    "tr": "sonraki",
+    "level": "A2"
+  },
+  {
+    "en": "nice",
+    "tr": "iyi, güzel",
+    "level": "A2"
+  },
+  {
+    "en": "night",
+    "tr": "gece",
+    "level": "A2"
+  },
+  {
+    "en": "none",
+    "tr": "yok, hayır, hiçbiri, hiçbir şey",
+    "level": "A2"
+  },
+  {
+    "en": "north",
+    "tr": "kuzey",
+    "level": "A2"
+  },
+  {
+    "en": "Not bad",
+    "tr": "Kötü değil",
+    "level": "A2"
+  },
+  {
+    "en": "Not yet",
+    "tr": "Daha değil",
+    "level": "A2"
+  },
+  {
+    "en": "note",
+    "tr": "not",
+    "level": "A2"
+  },
+  {
+    "en": "nothing",
+    "tr": "hiçbir şey",
+    "level": "A2"
+  },
+  {
+    "en": "notice",
+    "tr": "fark etmek",
+    "level": "A2"
+  },
+  {
+    "en": "occur",
+    "tr": "meydana gelmek",
+    "level": "A2"
+  },
+  {
+    "en": "offer",
+    "tr": "teklif etmek",
+    "level": "A2"
+  },
+  {
+    "en": "office",
+    "tr": "ofis",
+    "level": "A2"
+  },
+  {
+    "en": "officer",
+    "tr": "memur",
+    "level": "A2"
+  },
+  {
+    "en": "official",
+    "tr": "resmi",
+    "level": "A2"
+  },
+  {
+    "en": "often",
+    "tr": "sıklıkla",
+    "level": "A2"
+  },
+  {
+    "en": "okay",
+    "tr": "tamam",
+    "level": "A2"
+  },
+  {
+    "en": "once",
+    "tr": "bir zamanlar",
+    "level": "A2"
+  },
+  {
+    "en": "only",
+    "tr": "bir tek",
+    "level": "A2"
+  },
+  {
+    "en": "onto",
+    "tr": "üstüne",
+    "level": "A2"
+  },
+  {
+    "en": "operation",
+    "tr": "ameliyat",
+    "level": "A2"
+  },
+  {
+    "en": "opportunity",
+    "tr": "fırsat",
+    "level": "A2"
+  },
+  {
+    "en": "option",
+    "tr": "seçenek",
+    "level": "A2"
+  },
+  {
+    "en": "order",
+    "tr": "sipariş, sipariş vermek",
+    "level": "A2"
+  },
+  {
+    "en": "organization",
+    "tr": "organizasyon",
+    "level": "A2"
+  },
+  {
+    "en": "other",
+    "tr": "diğer",
+    "level": "A2"
+  },
+  {
+    "en": "others",
+    "tr": "diğerleri",
+    "level": "A2"
+  },
+  {
+    "en": "outside",
+    "tr": "dışında",
+    "level": "A2"
+  },
+  {
+    "en": "over",
+    "tr": "bitti",
+    "level": "A2"
+  },
+  {
+    "en": "own",
+    "tr": "kendi",
+    "level": "A2"
+  },
+  {
+    "en": "owner",
+    "tr": "sahip",
+    "level": "A2"
+  },
+  {
+    "en": "page",
+    "tr": "sayfa",
+    "level": "A2"
+  },
+  {
+    "en": "pain",
+    "tr": "ağrı",
+    "level": "A2"
+  },
+  {
+    "en": "painting",
+    "tr": "boyama",
+    "level": "A2"
+  },
+  {
+    "en": "paper",
+    "tr": "kağıt",
+    "level": "A2"
+  },
+  {
+    "en": "parent",
+    "tr": "ebeveyn",
+    "level": "A2"
+  },
+  {
+    "en": "particularly",
+    "tr": "özellikle",
+    "level": "A2"
+  },
+  {
+    "en": "partner",
+    "tr": "partner, ortak",
+    "level": "A2"
+  },
+  {
+    "en": "party",
+    "tr": "parti",
+    "level": "A2"
+  },
+  {
+    "en": "pass",
+    "tr": "geçmek",
+    "level": "A2"
+  },
+  {
+    "en": "past",
+    "tr": "geçmiş",
+    "level": "A2"
+  },
+  {
+    "en": "patient",
+    "tr": "hasta, sabırlı, hoşgörülü",
+    "level": "A2"
+  },
+  {
+    "en": "pattern",
+    "tr": "desen",
+    "level": "A2"
+  },
+  {
+    "en": "pay",
+    "tr": "ödemek",
+    "level": "A2"
+  },
+  {
+    "en": "peace",
+    "tr": "barış",
+    "level": "A2"
+  },
+  {
+    "en": "people",
+    "tr": "insanlar",
+    "level": "A2"
+  },
+  {
+    "en": "per",
+    "tr": "başına, göre",
+    "level": "A2"
+  },
+  {
+    "en": "perform",
+    "tr": "yapmak, uygulamak, yerine getirmek",
+    "level": "A2"
+  },
+  {
+    "en": "performance",
+    "tr": "performans",
+    "level": "A2"
+  },
+  {
+    "en": "perhaps",
+    "tr": "belki",
+    "level": "A2"
+  },
+  {
+    "en": "period",
+    "tr": "periyot, dönem",
+    "level": "A2"
+  },
+  {
+    "en": "person",
+    "tr": "kişi",
+    "level": "A2"
+  },
+  {
+    "en": "personal",
+    "tr": "kişisel",
+    "level": "A2"
+  },
+  {
+    "en": "phone",
+    "tr": "telefon",
+    "level": "A2"
+  },
+  {
+    "en": "physical",
+    "tr": "fiziksel",
+    "level": "A2"
+  },
+  {
+    "en": "pick",
+    "tr": "almak",
+    "level": "A2"
+  },
+  {
+    "en": "picture",
+    "tr": "resim",
+    "level": "A2"
+  },
+  {
+    "en": "piece",
+    "tr": "parça",
+    "level": "A2"
+  },
+  {
+    "en": "plan",
+    "tr": "plan",
+    "level": "A2"
+  },
+  {
+    "en": "plant",
+    "tr": "bitki",
+    "level": "A2"
+  },
+  {
+    "en": "play",
+    "tr": "oynamak",
+    "level": "A2"
+  },
+  {
+    "en": "player",
+    "tr": "oyuncu",
+    "level": "A2"
+  },
+  {
+    "en": "point",
+    "tr": "puan",
+    "level": "A2"
+  },
+  {
+    "en": "police",
+    "tr": "polis",
+    "level": "A2"
+  },
+  {
+    "en": "policy",
+    "tr": "politika",
+    "level": "A2"
+  },
+  {
+    "en": "political",
+    "tr": "siyasi",
+    "level": "A2"
+  },
+  {
+    "en": "politics",
+    "tr": "siyaset",
+    "level": "A2"
+  },
+  {
+    "en": "poor",
+    "tr": "fakir",
+    "level": "A2"
+  },
+  {
+    "en": "popular",
+    "tr": "popüler",
+    "level": "A2"
+  },
+  {
+    "en": "population",
+    "tr": "nüfus",
+    "level": "A2"
+  },
+  {
+    "en": "position",
+    "tr": "pozisyon",
+    "level": "A2"
+  },
+  {
+    "en": "positive",
+    "tr": "pozitif",
+    "level": "A2"
+  },
+  {
+    "en": "possible",
+    "tr": "mümkün",
+    "level": "A2"
+  },
+  {
+    "en": "power",
+    "tr": "güç",
+    "level": "A2"
+  },
+  {
+    "en": "practice",
+    "tr": "uygulama, pratik",
+    "level": "A2"
+  },
+  {
+    "en": "prepare",
+    "tr": "hazırlamak",
+    "level": "A2"
+  },
+  {
+    "en": "present",
+    "tr": "mevcut",
+    "level": "A2"
+  },
+  {
+    "en": "president",
+    "tr": "devlet başkanı",
+    "level": "A2"
+  },
+  {
+    "en": "pressure",
+    "tr": "basınç",
+    "level": "A2"
+  },
+  {
+    "en": "pretty",
+    "tr": "güzel",
+    "level": "A2"
+  },
+  {
+    "en": "prevent",
+    "tr": "engel olmak",
+    "level": "A2"
+  },
+  {
+    "en": "price",
+    "tr": "fiyat",
+    "level": "A2"
+  },
+  {
+    "en": "private",
+    "tr": "özel",
+    "level": "A2"
+  },
+  {
+    "en": "probably",
+    "tr": "muhtemelen",
+    "level": "A2"
+  },
+  {
+    "en": "problem",
+    "tr": "problem, sorun",
+    "level": "A2"
+  },
+  {
+    "en": "process",
+    "tr": "süreç, işlem",
+    "level": "A2"
+  },
+  {
+    "en": "produce",
+    "tr": "üretmek",
+    "level": "A2"
+  },
+  {
+    "en": "product",
+    "tr": "ürün",
+    "level": "A2"
+  },
+  {
+    "en": "production",
+    "tr": "üretim",
+    "level": "A2"
+  },
+  {
+    "en": "professional",
+    "tr": "profesyonel",
+    "level": "A2"
+  },
+  {
+    "en": "professor",
+    "tr": "profesör",
+    "level": "A2"
+  },
+  {
+    "en": "program",
+    "tr": "program",
+    "level": "A2"
+  },
+  {
+    "en": "project",
+    "tr": "proje",
+    "level": "A2"
+  },
+  {
+    "en": "property",
+    "tr": "gayrimenkul",
+    "level": "A2"
+  },
+  {
+    "en": "protect",
+    "tr": "korumak",
+    "level": "A2"
+  },
+  {
+    "en": "prove",
+    "tr": "kanıtlamak",
+    "level": "A2"
+  },
+  {
+    "en": "provide",
+    "tr": "sağlamak",
+    "level": "A2"
+  },
+  {
+    "en": "public",
+    "tr": "halka açık",
+    "level": "A2"
+  },
+  {
+    "en": "pull",
+    "tr": "çekmek",
+    "level": "A2"
+  },
+  {
+    "en": "purpose",
+    "tr": "amaç",
+    "level": "A2"
+  },
+  {
+    "en": "push",
+    "tr": "itmek",
+    "level": "A2"
+  },
+  {
+    "en": "quality",
+    "tr": "kalite",
+    "level": "A2"
+  },
+  {
+    "en": "question",
+    "tr": "soru",
+    "level": "A2"
+  },
+  {
+    "en": "quickly",
+    "tr": "hızlı bir şekilde",
+    "level": "A2"
+  },
+  {
+    "en": "quite",
+    "tr": "oldukça",
+    "level": "A2"
+  },
+  {
+    "en": "race",
+    "tr": "yarış",
+    "level": "A2"
+  },
+  {
+    "en": "radio",
+    "tr": "radyo",
+    "level": "A2"
+  },
+  {
+    "en": "raise",
+    "tr": "yükseltmek",
+    "level": "A2"
+  },
+  {
+    "en": "range",
+    "tr": "menzil, aralık",
+    "level": "A2"
+  },
+  {
+    "en": "rate",
+    "tr": "oran",
+    "level": "A2"
+  },
+  {
+    "en": "rather",
+    "tr": "daha doğrusu",
+    "level": "A2"
+  },
+  {
+    "en": "reach",
+    "tr": "ulaşmak",
+    "level": "A2"
+  },
+  {
+    "en": "read",
+    "tr": "okumak",
+    "level": "A2"
+  },
+  {
+    "en": "ready",
+    "tr": "hazır",
+    "level": "A2"
+  },
+  {
+    "en": "real",
+    "tr": "reel, gerçek",
+    "level": "A2"
+  },
+  {
+    "en": "reality",
+    "tr": "gerçeklik",
+    "level": "A2"
+  },
+  {
+    "en": "realize",
+    "tr": "fark etmek",
+    "level": "A2"
+  },
+  {
+    "en": "really",
+    "tr": "gerçekten",
+    "level": "A2"
+  },
+  {
+    "en": "reason",
+    "tr": "neden",
+    "level": "A2"
+  },
+  {
+    "en": "receive",
+    "tr": "teslim almak",
+    "level": "A2"
+  },
+  {
+    "en": "recent",
+    "tr": "son",
+    "level": "A2"
+  },
+  {
+    "en": "recognize",
+    "tr": "tanımak",
+    "level": "A2"
+  },
+  {
+    "en": "record",
+    "tr": "kayıt",
+    "level": "A2"
+  },
+  {
+    "en": "reduce",
+    "tr": "azaltmak, düşürmek",
+    "level": "A2"
+  },
+  {
+    "en": "reflect",
+    "tr": "yansıtmak",
+    "level": "A2"
+  },
+  {
+    "en": "region",
+    "tr": "bölge",
+    "level": "A2"
+  },
+  {
+    "en": "relate",
+    "tr": "Ilişki kurmak",
+    "level": "A2"
+  },
+  {
+    "en": "relationship",
+    "tr": "Ilişki",
+    "level": "A2"
+  },
+  {
+    "en": "religious",
+    "tr": "dini",
+    "level": "A2"
+  },
+  {
+    "en": "remain",
+    "tr": "kalmak, sürdürmek",
+    "level": "A2"
+  },
+  {
+    "en": "remember",
+    "tr": "hatırlamak",
+    "level": "A2"
+  },
+  {
+    "en": "remove",
+    "tr": "kaldırmak, uzaklaştırmak, ortadan kaldırmak",
+    "level": "A2"
+  },
+  {
+    "en": "report",
+    "tr": "rapor",
+    "level": "A2"
+  },
+  {
+    "en": "represent",
+    "tr": "temsil etmek",
+    "level": "A2"
+  },
+  {
+    "en": "republican",
+    "tr": "cumhuriyetçi",
+    "level": "A2"
+  },
+  {
+    "en": "require",
+    "tr": "gerekmek, gerektirmek",
+    "level": "A2"
+  },
+  {
+    "en": "research",
+    "tr": "araştırma",
+    "level": "A2"
+  },
+  {
+    "en": "resource",
+    "tr": "kaynak",
+    "level": "A2"
+  },
+  {
+    "en": "respond",
+    "tr": "yanıtlamak",
+    "level": "A2"
+  },
+  {
+    "en": "response",
+    "tr": "cevap vermek",
+    "level": "A2"
+  },
+  {
+    "en": "responsibility",
+    "tr": "sorumluluk",
+    "level": "A2"
+  },
+  {
+    "en": "rest",
+    "tr": "dinlenme",
+    "level": "A2"
+  },
+  {
+    "en": "result",
+    "tr": "sonuç",
+    "level": "A2"
+  },
+  {
+    "en": "return",
+    "tr": "dönüş",
+    "level": "A2"
+  },
+  {
+    "en": "reveal",
+    "tr": "ortaya çıkartmak, açığa vurmak",
+    "level": "A2"
+  },
+  {
+    "en": "rich",
+    "tr": "zengin",
+    "level": "A2"
+  },
+  {
+    "en": "rise",
+    "tr": "yükselmek",
+    "level": "A2"
+  },
+  {
+    "en": "risk",
+    "tr": "risk",
+    "level": "A2"
+  },
+  {
+    "en": "road",
+    "tr": "karayolu, yol",
+    "level": "A2"
+  },
+  {
+    "en": "rock",
+    "tr": "kaya",
+    "level": "A2"
+  },
+  {
+    "en": "role",
+    "tr": "rol",
+    "level": "A2"
+  },
+  {
+    "en": "rule",
+    "tr": "kural",
+    "level": "A2"
+  },
+  {
+    "en": "safe",
+    "tr": "güvenli",
+    "level": "A2"
+  },
+  {
+    "en": "save",
+    "tr": "kayıt etmek",
+    "level": "A2"
+  },
+  {
+    "en": "scene",
+    "tr": "sahne",
+    "level": "A2"
+  },
+  {
+    "en": "science",
+    "tr": "bilim",
+    "level": "A2"
+  },
+  {
+    "en": "scientist",
+    "tr": "bilim insanı",
+    "level": "A2"
+  },
+  {
+    "en": "score",
+    "tr": "skor",
+    "level": "A2"
+  },
+  {
+    "en": "sea",
+    "tr": "deniz",
+    "level": "A2"
+  },
+  {
+    "en": "season",
+    "tr": "sezon",
+    "level": "A2"
+  },
+  {
+    "en": "seat",
+    "tr": "koltuk",
+    "level": "A2"
+  },
+  {
+    "en": "second",
+    "tr": "ikinci",
+    "level": "A2"
+  },
+  {
+    "en": "section",
+    "tr": "bölüm, kesit",
+    "level": "A2"
+  },
+  {
+    "en": "security",
+    "tr": "güvenlik",
+    "level": "A2"
+  },
+  {
+    "en": "See you",
+    "tr": "Görüşürüz",
+    "level": "A2"
+  },
+  {
+    "en": "seek",
+    "tr": "aramak",
+    "level": "A2"
+  },
+  {
+    "en": "seem",
+    "tr": "görünmek",
+    "level": "A2"
+  },
+  {
+    "en": "sell",
+    "tr": "satmak",
+    "level": "A2"
+  },
+  {
+    "en": "send",
+    "tr": "göndermek",
+    "level": "A2"
+  },
+  {
+    "en": "senior",
+    "tr": "kıdemli, yaşça büyük",
+    "level": "A2"
+  },
+  {
+    "en": "sense",
+    "tr": "algı, duyu",
+    "level": "A2"
+  },
+  {
+    "en": "series",
+    "tr": "dizi, seri",
+    "level": "A2"
+  },
+  {
+    "en": "serious",
+    "tr": "ciddi",
+    "level": "A2"
+  },
+  {
+    "en": "serve",
+    "tr": "servis",
+    "level": "A2"
+  },
+  {
+    "en": "service",
+    "tr": "hizmet",
+    "level": "A2"
+  },
+  {
+    "en": "seven",
+    "tr": "yedi",
+    "level": "A2"
+  },
+  {
+    "en": "several",
+    "tr": "birkaç",
+    "level": "A2"
+  },
+  {
+    "en": "shake",
+    "tr": "sallamak",
+    "level": "A2"
+  },
+  {
+    "en": "share",
+    "tr": "paylaşmak",
+    "level": "A2"
+  },
+  {
+    "en": "shoot",
+    "tr": "şut çekmek",
+    "level": "A2"
+  },
+  {
+    "en": "short",
+    "tr": "kısa",
+    "level": "A2"
+  },
+  {
+    "en": "shot",
+    "tr": "atış",
+    "level": "A2"
+  },
+  {
+    "en": "should",
+    "tr": "meli, malı",
+    "level": "A2"
+  },
+  {
+    "en": "shoulder",
+    "tr": "omuz",
+    "level": "A2"
+  },
+  {
+    "en": "show",
+    "tr": "göstermek",
+    "level": "A2"
+  },
+  {
+    "en": "side",
+    "tr": "yan",
+    "level": "A2"
+  },
+  {
+    "en": "sign",
+    "tr": "işaret",
+    "level": "A2"
+  },
+  {
+    "en": "significant",
+    "tr": "önemli",
+    "level": "A2"
+  },
+  {
+    "en": "similar",
+    "tr": "benzer",
+    "level": "A2"
+  },
+  {
+    "en": "simple",
+    "tr": "basit",
+    "level": "A2"
+  },
+  {
+    "en": "simply",
+    "tr": "basitçe",
+    "level": "A2"
+  },
+  {
+    "en": "since",
+    "tr": "dan beri",
+    "level": "A2"
+  },
+  {
+    "en": "sing",
+    "tr": "şarkı söylemek",
+    "level": "A2"
+  },
+  {
+    "en": "single",
+    "tr": "tek",
+    "level": "A2"
+  },
+  {
+    "en": "sister",
+    "tr": "kız kardeş",
+    "level": "A2"
+  },
+  {
+    "en": "site",
+    "tr": "alan",
+    "level": "A2"
+  },
+  {
+    "en": "situation",
+    "tr": "durum",
+    "level": "A2"
+  },
+  {
+    "en": "six",
+    "tr": "altı",
+    "level": "A2"
+  },
+  {
+    "en": "size",
+    "tr": "boyut",
+    "level": "A2"
+  },
+  {
+    "en": "skill",
+    "tr": "beceri",
+    "level": "A2"
+  },
+  {
+    "en": "skin",
+    "tr": "cilt",
+    "level": "A2"
+  },
+  {
+    "en": "smile",
+    "tr": "gülümseme",
+    "level": "A2"
+  },
+  {
+    "en": "social",
+    "tr": "sosyal",
+    "level": "A2"
+  },
+  {
+    "en": "society",
+    "tr": "toplum",
+    "level": "A2"
+  },
+  {
+    "en": "soldier",
+    "tr": "asker",
+    "level": "A2"
+  },
+  {
+    "en": "someone",
+    "tr": "birisi",
+    "level": "A2"
+  },
+  {
+    "en": "something",
+    "tr": "bir şey",
+    "level": "A2"
+  },
+  {
+    "en": "sometimes",
+    "tr": "ara sıra",
+    "level": "A2"
+  },
+  {
+    "en": "son",
+    "tr": "oğul",
+    "level": "A2"
+  },
+  {
+    "en": "song",
+    "tr": "şarkı",
+    "level": "A2"
+  },
+  {
+    "en": "soon",
+    "tr": "yakında",
+    "level": "A2"
+  },
+  {
+    "en": "sort",
+    "tr": "çeşit",
+    "level": "A2"
+  },
+  {
+    "en": "sound",
+    "tr": "ses",
+    "level": "A2"
+  },
+  {
+    "en": "source",
+    "tr": "kaynak",
+    "level": "A2"
+  },
+  {
+    "en": "south",
+    "tr": "güney",
+    "level": "A2"
+  },
+  {
+    "en": "southern",
+    "tr": "güney, güneyli",
+    "level": "A2"
+  },
+  {
+    "en": "space",
+    "tr": "boşluk",
+    "level": "A2"
+  },
+  {
+    "en": "speak",
+    "tr": "konuşmak",
+    "level": "A2"
+  },
+  {
+    "en": "special",
+    "tr": "özel",
+    "level": "A2"
+  },
+  {
+    "en": "specific",
+    "tr": "özel",
+    "level": "A2"
+  },
+  {
+    "en": "speech",
+    "tr": "konuşma",
+    "level": "A2"
+  },
+  {
+    "en": "spend",
+    "tr": "harcamak",
+    "level": "A2"
+  },
+  {
+    "en": "sport",
+    "tr": "spor",
+    "level": "A2"
+  },
+  {
+    "en": "spring",
+    "tr": "bahar",
+    "level": "A2"
+  },
+  {
+    "en": "staff",
+    "tr": "personel",
+    "level": "A2"
+  },
+  {
+    "en": "stage",
+    "tr": "sahne",
+    "level": "A2"
+  },
+  {
+    "en": "standard",
+    "tr": "standart",
+    "level": "A2"
+  },
+  {
+    "en": "star",
+    "tr": "yıldız",
+    "level": "A2"
+  },
+  {
+    "en": "start",
+    "tr": "başlama",
+    "level": "A2"
+  },
+  {
+    "en": "state",
+    "tr": "devlet, durum",
+    "level": "A2"
+  },
+  {
+    "en": "statement",
+    "tr": "beyan, ifade",
+    "level": "A2"
+  },
+  {
+    "en": "station",
+    "tr": "istasyon",
+    "level": "A2"
+  },
+  {
+    "en": "stay",
+    "tr": "kalmak",
+    "level": "A2"
+  },
+  {
+    "en": "step",
+    "tr": "adım",
+    "level": "A2"
+  },
+  {
+    "en": "still",
+    "tr": "hala",
+    "level": "A2"
+  },
+  {
+    "en": "stock",
+    "tr": "stok",
+    "level": "A2"
+  },
+  {
+    "en": "stop",
+    "tr": "dur, durmak",
+    "level": "A2"
+  },
+  {
+    "en": "store",
+    "tr": "mağaza",
+    "level": "A2"
+  },
+  {
+    "en": "story",
+    "tr": "öykü",
+    "level": "A2"
+  },
+  {
+    "en": "strategy",
+    "tr": "strateji",
+    "level": "A2"
+  },
+  {
+    "en": "street",
+    "tr": "sokak",
+    "level": "A2"
+  },
+  {
+    "en": "strong",
+    "tr": "güçlü",
+    "level": "A2"
+  },
+  {
+    "en": "structure",
+    "tr": "yapı",
+    "level": "A2"
+  },
+  {
+    "en": "student",
+    "tr": "öğrenci",
+    "level": "A2"
+  },
+  {
+    "en": "study",
+    "tr": "ders çalışma",
+    "level": "A2"
+  },
+  {
+    "en": "stuff",
+    "tr": "şey, madde",
+    "level": "A2"
+  },
+  {
+    "en": "style",
+    "tr": "stil",
+    "level": "A2"
+  },
+  {
+    "en": "subject",
+    "tr": "konu",
+    "level": "A2"
+  },
+  {
+    "en": "success",
+    "tr": "başarı",
+    "level": "A2"
+  },
+  {
+    "en": "successful",
+    "tr": "başarılı",
+    "level": "A2"
+  },
+  {
+    "en": "such",
+    "tr": "böyle",
+    "level": "A2"
+  },
+  {
+    "en": "suddenly",
+    "tr": "aniden",
+    "level": "A2"
+  },
+  {
+    "en": "suffer",
+    "tr": "acı çekmek",
+    "level": "A2"
+  },
+  {
+    "en": "suggest",
+    "tr": "önermek",
+    "level": "A2"
+  },
+  {
+    "en": "summer",
+    "tr": "yaz",
+    "level": "A2"
+  },
+  {
+    "en": "support",
+    "tr": "destek",
+    "level": "A2"
+  },
+  {
+    "en": "sure",
+    "tr": "emin",
+    "level": "A2"
+  },
+  {
+    "en": "surface",
+    "tr": "yüzey",
+    "level": "A2"
+  },
+  {
+    "en": "system",
+    "tr": "sistem",
+    "level": "A2"
+  },
+  {
+    "en": "talk",
+    "tr": "konuşmak",
+    "level": "A2"
+  },
+  {
+    "en": "task",
+    "tr": "görev",
+    "level": "A2"
+  },
+  {
+    "en": "tax",
+    "tr": "vergi",
+    "level": "A2"
+  },
+  {
+    "en": "teach",
+    "tr": "öğretmek",
+    "level": "A2"
+  },
+  {
+    "en": "teacher",
+    "tr": "öğretmen",
+    "level": "A2"
+  },
+  {
+    "en": "team",
+    "tr": "takım",
+    "level": "A2"
+  },
+  {
+    "en": "technology",
+    "tr": "teknoloji",
+    "level": "A2"
+  },
+  {
+    "en": "television",
+    "tr": "televizyon",
+    "level": "A2"
+  },
+  {
+    "en": "tell",
+    "tr": "söylemek",
+    "level": "A2"
+  },
+  {
+    "en": "ten",
+    "tr": "on",
+    "level": "A2"
+  },
+  {
+    "en": "tend",
+    "tr": "yönelmek, eğilmek",
+    "level": "A2"
+  },
+  {
+    "en": "term",
+    "tr": "terim",
+    "level": "A2"
+  },
+  {
+    "en": "test",
+    "tr": "test",
+    "level": "A2"
+  },
+  {
+    "en": "thank",
+    "tr": "teşekkür etmek",
+    "level": "A2"
+  },
+  {
+    "en": "their",
+    "tr": "onların",
+    "level": "A2"
+  },
+  {
+    "en": "them",
+    "tr": "onları",
+    "level": "A2"
+  },
+  {
+    "en": "themselves",
+    "tr": "kendilerini",
+    "level": "A2"
+  },
+  {
+    "en": "theory",
+    "tr": "teori",
+    "level": "A2"
+  },
+  {
+    "en": "these",
+    "tr": "bunlar",
+    "level": "A2"
+  },
+  {
+    "en": "thing",
+    "tr": "şey",
+    "level": "A2"
+  },
+  {
+    "en": "think",
+    "tr": "düşünmek",
+    "level": "A2"
+  },
+  {
+    "en": "third",
+    "tr": "üçüncü",
+    "level": "A2"
+  },
+  {
+    "en": "those",
+    "tr": "bunlar",
+    "level": "A2"
+  },
+  {
+    "en": "though",
+    "tr": "olsa da",
+    "level": "A2"
+  },
+  {
+    "en": "thought",
+    "tr": "düşündü",
+    "level": "A2"
+  },
+  {
+    "en": "thousand",
+    "tr": "bin",
+    "level": "A2"
+  },
+  {
+    "en": "threat",
+    "tr": "tehdit",
+    "level": "A2"
+  },
+  {
+    "en": "three",
+    "tr": "üç",
+    "level": "A2"
+  },
+  {
+    "en": "through",
+    "tr": "vasıtasıyla",
+    "level": "A2"
+  },
+  {
+    "en": "throughout",
+    "tr": "boyunca",
+    "level": "A2"
+  },
+  {
+    "en": "throw",
+    "tr": "atmak",
+    "level": "A2"
+  },
+  {
+    "en": "thus",
+    "tr": "böylece",
+    "level": "A2"
+  },
+  {
+    "en": "today",
+    "tr": "bugün",
+    "level": "A2"
+  },
+  {
+    "en": "together",
+    "tr": "birlikte",
+    "level": "A2"
+  },
+  {
+    "en": "tonight",
+    "tr": "bu gece",
+    "level": "A2"
+  },
+  {
+    "en": "top",
+    "tr": "üst",
+    "level": "A2"
+  },
+  {
+    "en": "total",
+    "tr": "toplam, tüm",
+    "level": "A2"
+  },
+  {
+    "en": "tough",
+    "tr": "sert",
+    "level": "A2"
+  },
+  {
+    "en": "toward",
+    "tr": "-e doğru",
+    "level": "A2"
+  },
+  {
+    "en": "town",
+    "tr": "kasaba",
+    "level": "A2"
+  },
+  {
+    "en": "trade",
+    "tr": "ticaret",
+    "level": "A2"
+  },
+  {
+    "en": "traditional",
+    "tr": "geleneksel",
+    "level": "A2"
+  },
+  {
+    "en": "training",
+    "tr": "eğitim, antrenman",
+    "level": "A2"
+  },
+  {
+    "en": "travel",
+    "tr": "seyahat",
+    "level": "A2"
+  },
+  {
+    "en": "treat",
+    "tr": "tedavi etmek",
+    "level": "A2"
+  },
+  {
+    "en": "treatment",
+    "tr": "tedavi",
+    "level": "A2"
+  },
+  {
+    "en": "trial",
+    "tr": "deneme, test",
+    "level": "A2"
+  },
+  {
+    "en": "trip",
+    "tr": "yolculuk",
+    "level": "A2"
+  },
+  {
+    "en": "trouble",
+    "tr": "sorun",
+    "level": "A2"
+  },
+  {
+    "en": "true",
+    "tr": "doğru",
+    "level": "A2"
+  },
+  {
+    "en": "truth",
+    "tr": "hakikat",
+    "level": "A2"
+  },
+  {
+    "en": "try",
+    "tr": "denemek",
+    "level": "A2"
+  },
+  {
+    "en": "turn",
+    "tr": "çevirmek",
+    "level": "A2"
+  },
+  {
+    "en": "type",
+    "tr": "tip, tür, model",
+    "level": "A2"
+  },
+  {
+    "en": "under",
+    "tr": "altında",
+    "level": "A2"
+  },
+  {
+    "en": "understand",
+    "tr": "anlamak",
+    "level": "A2"
+  },
+  {
+    "en": "unit",
+    "tr": "ünite",
+    "level": "A2"
+  },
+  {
+    "en": "until",
+    "tr": "-a kadar",
+    "level": "A2"
+  },
+  {
+    "en": "upon",
+    "tr": "üzerinde",
+    "level": "A2"
+  },
+  {
+    "en": "usually",
+    "tr": "genellikle",
+    "level": "A2"
+  },
+  {
+    "en": "value",
+    "tr": "değer",
+    "level": "A2"
+  },
+  {
+    "en": "various",
+    "tr": "çeşitli",
+    "level": "A2"
+  },
+  {
+    "en": "victim",
+    "tr": "kurban",
+    "level": "A2"
+  },
+  {
+    "en": "view",
+    "tr": "görünüm",
+    "level": "A2"
+  },
+  {
+    "en": "violence",
+    "tr": "şiddet",
+    "level": "A2"
+  },
+  {
+    "en": "visit",
+    "tr": "ziyaret etmek",
+    "level": "A2"
+  },
+  {
+    "en": "voice",
+    "tr": "ses",
+    "level": "A2"
+  },
+  {
+    "en": "vote",
+    "tr": "oy",
+    "level": "A2"
+  },
+  {
+    "en": "wait",
+    "tr": "beklemek",
+    "level": "A2"
+  },
+  {
+    "en": "wall",
+    "tr": "duvar",
+    "level": "A2"
+  },
+  {
+    "en": "war",
+    "tr": "savaş",
+    "level": "A2"
+  },
+  {
+    "en": "watch",
+    "tr": "izlemek",
+    "level": "A2"
+  },
+  {
+    "en": "weapon",
+    "tr": "silah",
+    "level": "A2"
+  },
+  {
+    "en": "wear",
+    "tr": "giyinmek",
+    "level": "A2"
+  },
+  {
+    "en": "week",
+    "tr": "hafta",
+    "level": "A2"
+  },
+  {
+    "en": "weight",
+    "tr": "ağırlık",
+    "level": "A2"
+  },
+  {
+    "en": "west",
+    "tr": "batı",
+    "level": "A2"
+  },
+  {
+    "en": "western",
+    "tr": "batıda",
+    "level": "A2"
+  },
+  {
+    "en": "whatever",
+    "tr": "her neyse",
+    "level": "A2"
+  },
+  {
+    "en": "when",
+    "tr": "ne zaman",
+    "level": "A2"
+  },
+  {
+    "en": "while",
+    "tr": "iken",
+    "level": "A2"
+  },
+  {
+    "en": "whom",
+    "tr": "kime",
+    "level": "A2"
+  },
+  {
+    "en": "whose",
+    "tr": "kimin",
+    "level": "A2"
+  },
+  {
+    "en": "why",
+    "tr": "niçin?",
+    "level": "A2"
+  },
+  {
+    "en": "wide",
+    "tr": "geniş",
+    "level": "A2"
+  },
+  {
+    "en": "wife",
+    "tr": "kadın eş",
+    "level": "A2"
+  },
+  {
+    "en": "win",
+    "tr": "kazanmak",
+    "level": "A2"
+  },
+  {
+    "en": "wind",
+    "tr": "rüzgar",
+    "level": "A2"
+  },
+  {
+    "en": "wish",
+    "tr": "dilek, dilemek",
+    "level": "A2"
+  },
+  {
+    "en": "within",
+    "tr": "içinde",
+    "level": "A2"
+  },
+  {
+    "en": "without",
+    "tr": "olmadan",
+    "level": "A2"
+  },
+  {
+    "en": "woman",
+    "tr": "kadın",
+    "level": "A2"
+  },
+  {
+    "en": "wonder",
+    "tr": "merak etmek, şaşmak",
+    "level": "A2"
+  },
+  {
+    "en": "word",
+    "tr": "kelime",
+    "level": "A2"
+  },
+  {
+    "en": "worker",
+    "tr": "işçi",
+    "level": "A2"
+  },
+  {
+    "en": "world",
+    "tr": "dünya",
+    "level": "A2"
+  },
+  {
+    "en": "worry",
+    "tr": "endişe etmek",
+    "level": "A2"
+  },
+  {
+    "en": "writer",
+    "tr": "yazar",
+    "level": "A2"
+  },
+  {
+    "en": "wrong",
+    "tr": "yanlış",
+    "level": "A2"
+  },
+  {
+    "en": "yard",
+    "tr": "avlu",
+    "level": "A2"
+  },
+  {
+    "en": "yarn",
+    "tr": "iplik",
+    "level": "A2"
+  },
+  {
+    "en": "yearly",
+    "tr": "yıllık",
+    "level": "A2"
+  },
+  {
+    "en": "yelling",
+    "tr": "seslenmek",
+    "level": "A2"
+  },
+  {
+    "en": "young",
+    "tr": "genç",
+    "level": "A2"
+  },
+  {
+    "en": "youth",
+    "tr": "gençlik",
+    "level": "A2"
+  },
+  {
+    "en": "zebra",
+    "tr": "zebra",
+    "level": "A2"
+  },
+  {
+    "en": "zipper",
+    "tr": "fermuar",
+    "level": "A2"
+  },
+  {
+    "en": "zodiac",
+    "tr": "burçlar kuşağı",
+    "level": "A2"
+  },
+  {
+    "en": "zombie",
+    "tr": "zombi",
+    "level": "A2"
+  },
+  {
+    "en": "zoology",
+    "tr": "hayvan bilimi",
+    "level": "A2"
+  },
+  {
+    "en": "zoom",
+    "tr": "yakınlaşmak, zoom yapmak",
+    "level": "A2"
+  },
+  {
+    "en": "according",
+    "tr": "göre",
+    "level": "B1"
+  },
+  {
+    "en": "account",
+    "tr": "hesap, açıklama",
+    "level": "B1"
+  },
+  {
+    "en": "action",
+    "tr": "eylem, etki, hareket",
+    "level": "B1"
+  },
+  {
+    "en": "activity",
+    "tr": "faaliyet, etkinlik",
+    "level": "B1"
+  },
+  {
+    "en": "actually",
+    "tr": "aslında, gerçekte",
+    "level": "B1"
+  },
+  {
+    "en": "afternoon",
+    "tr": "öğleden sonra",
+    "level": "B1"
+  },
+  {
+    "en": "all right",
+    "tr": "peki",
+    "level": "B1"
+  },
+  {
+    "en": "Allow me",
+    "tr": "Bana izin ver",
+    "level": "B1"
+  },
+  {
+    "en": "american",
+    "tr": "amerikan",
+    "level": "B1"
+  },
+  {
+    "en": "amount",
+    "tr": "miktar, tutar",
+    "level": "B1"
+  },
+  {
+    "en": "analysis",
+    "tr": "analiz, çözümleme",
+    "level": "B1"
+  },
+  {
+    "en": "anywhere",
+    "tr": "herhangi bir yere",
+    "level": "B1"
+  },
+  {
+    "en": "approach",
+    "tr": "yaklaşım, yaklaşma",
+    "level": "B1"
+  },
+  {
+    "en": "attorney",
+    "tr": "avukat, vekil",
+    "level": "B1"
+  },
+  {
+    "en": "audience",
+    "tr": "seyirci, izleyici",
+    "level": "B1"
+  },
+  {
+    "en": "authority",
+    "tr": "yetki, otorite",
+    "level": "B1"
+  },
+  {
+    "en": "available",
+    "tr": "müsait",
+    "level": "B1"
+  },
+  {
+    "en": "Be calm!",
+    "tr": "Sakin ol!",
+    "level": "B1"
+  },
+  {
+    "en": "Be quiet!",
+    "tr": "Sessiz ol",
+    "level": "B1"
+  },
+  {
+    "en": "behavior",
+    "tr": "davranış, tutum, hareket",
+    "level": "B1"
+  },
+  {
+    "en": "campaign",
+    "tr": "kampanya",
+    "level": "B1"
+  },
+  {
+    "en": "candidate",
+    "tr": "aday",
+    "level": "B1"
+  },
+  {
+    "en": "career",
+    "tr": "kariyer",
+    "level": "B1"
+  },
+  {
+    "en": "certainly",
+    "tr": "kesinlikle",
+    "level": "B1"
+  },
+  {
+    "en": "challenge",
+    "tr": "meydan okuma",
+    "level": "B1"
+  },
+  {
+    "en": "Cheer up!",
+    "tr": "Neşelen",
+    "level": "B1"
+  },
+  {
+    "en": "community",
+    "tr": "topluluk",
+    "level": "B1"
+  },
+  {
+    "en": "compare",
+    "tr": "karşılaştırmak",
+    "level": "B1"
+  },
+  {
+    "en": "congress",
+    "tr": "kongre",
+    "level": "B1"
+  },
+  {
+    "en": "consider",
+    "tr": "dikkate almak",
+    "level": "B1"
+  },
+  {
+    "en": "consumer",
+    "tr": "tüketici",
+    "level": "B1"
+  },
+  {
+    "en": "cultural",
+    "tr": "kültürel",
+    "level": "B1"
+  },
+  {
+    "en": "customer",
+    "tr": "müşteri",
+    "level": "B1"
+  },
+  {
+    "en": "daughter",
+    "tr": "kız evlat",
+    "level": "B1"
+  },
+  {
+    "en": "degree",
+    "tr": "derece",
+    "level": "B1"
+  },
+  {
+    "en": "democrat",
+    "tr": "demokrat",
+    "level": "B1"
+  },
+  {
+    "en": "determine",
+    "tr": "belirlemek",
+    "level": "B1"
+  },
+  {
+    "en": "director",
+    "tr": "yönetmen",
+    "level": "B1"
+  },
+  {
+    "en": "discover",
+    "tr": "keşfetmek",
+    "level": "B1"
+  },
+  {
+    "en": "discuss",
+    "tr": "tartışmak",
+    "level": "B1"
+  },
+  {
+    "en": "disease",
+    "tr": "hastalık",
+    "level": "B1"
+  },
+  {
+    "en": "economic",
+    "tr": "ekonomik",
+    "level": "B1"
+  },
+  {
+    "en": "everybody",
+    "tr": "herkes",
+    "level": "B1"
+  },
+  {
+    "en": "evidence",
+    "tr": "delil",
+    "level": "B1"
+  },
+  {
+    "en": "Follow me",
+    "tr": "Beni takip et",
+    "level": "B1"
+  },
+  {
+    "en": "For what?",
+    "tr": "Ne için?",
+    "level": "B1"
+  },
+  {
+    "en": "Good job!",
+    "tr": "İyi iş",
+    "level": "B1"
+  },
+  {
+    "en": "Have fun",
+    "tr": "İyi eğlenceler",
+    "level": "B1"
+  },
+  {
+    "en": "How much?",
+    "tr": "Ne kadar?",
+    "level": "B1"
+  },
+  {
+    "en": "Hurry up",
+    "tr": "Acele et",
+    "level": "B1"
+  },
+  {
+    "en": "I am home",
+    "tr": "Ben evdeyim",
+    "level": "B1"
+  },
+  {
+    "en": "I am lost",
+    "tr": "Ben kayboldum",
+    "level": "B1"
+  },
+  {
+    "en": "I am sure",
+    "tr": "Eminim",
+    "level": "B1"
+  },
+  {
+    "en": "I got it",
+    "tr": "Anladım",
+    "level": "B1"
+  },
+  {
+    "en": "I hope so",
+    "tr": "Umarım",
+    "level": "B1"
+  },
+  {
+    "en": "I knew it",
+    "tr": "Biliyordum",
+    "level": "B1"
+  },
+  {
+    "en": "I promise",
+    "tr": "Söz veriyorum",
+    "level": "B1"
+  },
+  {
+    "en": "It’s okay",
+    "tr": "Her şey yolunda",
+    "level": "B1"
+  },
+  {
+    "en": "I’m busy",
+    "tr": "Meşgulüm",
+    "level": "B1"
+  },
+  {
+    "en": "I’m good",
+    "tr": "İyiyim",
+    "level": "B1"
+  },
+  {
+    "en": "I’m sorry",
+    "tr": "Üzgünüm",
+    "level": "B1"
+  },
+  {
+    "en": "I’m sorry",
+    "tr": "Üzgünüm, affedersiniz",
+    "level": "B1"
+  },
+  {
+    "en": "I’m tired",
+    "tr": "Yorgunum",
+    "level": "B1"
+  },
+  {
+    "en": "knowledge",
+    "tr": "bilgi",
+    "level": "B1"
+  },
+  {
+    "en": "magazine",
+    "tr": "dergi",
+    "level": "B1"
+  },
+  {
+    "en": "majority",
+    "tr": "çoğunluk",
+    "level": "B1"
+  },
+  {
+    "en": "Of course",
+    "tr": "Tabii ki, Elbette",
+    "level": "B1"
+  },
+  {
+    "en": "recently",
+    "tr": "son günlerde",
+    "level": "B1"
+  },
+  {
+    "en": "Slow down",
+    "tr": "Yavaşla",
+    "level": "B1"
+  },
+  {
+    "en": "somebody",
+    "tr": "birileri",
+    "level": "B1"
+  },
+  {
+    "en": "Take care",
+    "tr": "Kendine iyi bak",
+    "level": "B1"
+  },
+  {
+    "en": "This way",
+    "tr": "Buradan",
+    "level": "B1"
+  },
+  {
+    "en": "Try again",
+    "tr": "Tekrar dene",
+    "level": "B1"
+  },
+  {
+    "en": "Why not?",
+    "tr": "Neden olmasın?",
+    "level": "B1"
+  },
+  {
+    "en": "yesterday",
+    "tr": "dün",
+    "level": "B1"
+  },
+  {
+    "en": "Your turn",
+    "tr": "Senin sıran",
+    "level": "B1"
+  },
+  {
+    "en": "yourself",
+    "tr": "kendin",
+    "level": "B1"
+  },
+  {
+    "en": "zeppelin",
+    "tr": "zeplin",
+    "level": "B1"
+  },
+  {
+    "en": "administration",
+    "tr": "yönetim, idare",
+    "level": "B2"
+  },
+  {
+    "en": "afterwards",
+    "tr": "ondan sonra",
+    "level": "B2"
+  },
+  {
+    "en": "agreement",
+    "tr": "anlaşma, sözleşme",
+    "level": "B2"
+  },
+  {
+    "en": "Anything else?",
+    "tr": "Başka bir şey var mı?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you coming with me?",
+    "tr": "Benimle geliyor musun?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you coming?",
+    "tr": "Geliyor musun?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you done?",
+    "tr": "Bitirdin mi?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you hungry?",
+    "tr": "Aç mısın?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you kidding me?",
+    "tr": "Benimle dalga mı geçiyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you lost?",
+    "tr": "Kayıp mı oldun?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you not feeling well?",
+    "tr": "Kendini iyi hissetmiyor musun?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you okay?",
+    "tr": "İyi misin?",
+    "level": "B2"
+  },
+  {
+    "en": "Are you sure?",
+    "tr": "Emin misin?",
+    "level": "B2"
+  },
+  {
+    "en": "attention",
+    "tr": "dikkat",
+    "level": "B2"
+  },
+  {
+    "en": "Be careful!",
+    "tr": "Dikkatli ol!",
+    "level": "B2"
+  },
+  {
+    "en": "Be patient!",
+    "tr": "Sabırlı ol!",
+    "level": "B2"
+  },
+  {
+    "en": "Believe me",
+    "tr": "İnan bana",
+    "level": "B2"
+  },
+  {
+    "en": "Bless you!",
+    "tr": "Çok yasa!",
+    "level": "B2"
+  },
+  {
+    "en": "Bottoms up!",
+    "tr": "Şerefe!",
+    "level": "B2"
+  },
+  {
+    "en": "Call me back",
+    "tr": "Beni geri ara",
+    "level": "B2"
+  },
+  {
+    "en": "Call me later",
+    "tr": "Beni daha sonra ara",
+    "level": "B2"
+  },
+  {
+    "en": "Can I ask you something?",
+    "tr": "Sana bir şey sorabilir miyim?",
+    "level": "B2"
+  },
+  {
+    "en": "Can I help you?",
+    "tr": "Yardım edebilir miyim?",
+    "level": "B2"
+  },
+  {
+    "en": "Can you help me please?",
+    "tr": "Lütfen bana yardım eder misin?",
+    "level": "B2"
+  },
+  {
+    "en": "Can you please repeat that?",
+    "tr": "Lütfen tekrar eder misin?",
+    "level": "B2"
+  },
+  {
+    "en": "Can you repeat it?",
+    "tr": "Tekrar edebilir misin?",
+    "level": "B2"
+  },
+  {
+    "en": "collection",
+    "tr": "toplamak",
+    "level": "B2"
+  },
+  {
+    "en": "Come with me",
+    "tr": "Benimle gel",
+    "level": "B2"
+  },
+  {
+    "en": "commercial",
+    "tr": "ticari",
+    "level": "B2"
+  },
+  {
+    "en": "conference",
+    "tr": "konferans",
+    "level": "B2"
+  },
+  {
+    "en": "Congratulations!",
+    "tr": "Tebrikler!",
+    "level": "B2"
+  },
+  {
+    "en": "Count me on, Count me in",
+    "tr": "Ben varım, beni de sayın",
+    "level": "B2"
+  },
+  {
+    "en": "democratic",
+    "tr": "demokratik",
+    "level": "B2"
+  },
+  {
+    "en": "Did you get it?",
+    "tr": "Aldın mı? / Anladın mı?",
+    "level": "B2"
+  },
+  {
+    "en": "Did you lose your bag?",
+    "tr": "Çantanızı mı kaybettiniz?",
+    "level": "B2"
+  },
+  {
+    "en": "discussion",
+    "tr": "tartışma",
+    "level": "B2"
+  },
+  {
+    "en": "Do l have to?",
+    "tr": "Yapmak zorunda mıyım?",
+    "level": "B2"
+  },
+  {
+    "en": "Do me a favor",
+    "tr": "Bana bir iyilik yap",
+    "level": "B2"
+  },
+  {
+    "en": "Do you need anything?",
+    "tr": "Bir şeye ihtiyacın var mı?",
+    "level": "B2"
+  },
+  {
+    "en": "Do you speak our language?",
+    "tr": "Dilimizi konuşabiliyor musunuz?",
+    "level": "B2"
+  },
+  {
+    "en": "Do you understand?",
+    "tr": "Anlıyor musun?",
+    "level": "B2"
+  },
+  {
+    "en": "Do you want it?",
+    "tr": "Bunu istiyor musun?",
+    "level": "B2"
+  },
+  {
+    "en": "Do you want something?",
+    "tr": "Bir şey ister misin?",
+    "level": "B2"
+  },
+  {
+    "en": "Don’t be ridiculous",
+    "tr": "Komik olma",
+    "level": "B2"
+  },
+  {
+    "en": "Don’t be so childish",
+    "tr": "Çocuk olma",
+    "level": "B2"
+  },
+  {
+    "en": "Don’t be so modest",
+    "tr": "Alçak gönüllü olma",
+    "level": "B2"
+  },
+  {
+    "en": "Don’t keep the truth from me",
+    "tr": "Benden gerçekleri saklama",
+    "level": "B2"
+  },
+  {
+    "en": "Don’t let me down",
+    "tr": "Beni hayal kırıklığına uğratma",
+    "level": "B2"
+  },
+  {
+    "en": "Don’t move",
+    "tr": "Kıpırdama",
+    "level": "B2"
+  },
+  {
+    "en": "Don’t touch me",
+    "tr": "Dokunma bana",
+    "level": "B2"
+  },
+  {
+    "en": "Don’t worry",
+    "tr": "Endişelenme",
+    "level": "B2"
+  },
+  {
+    "en": "Enjoy yourself",
+    "tr": "Eğlenmene bak",
+    "level": "B2"
+  },
+  {
+    "en": "environmental",
+    "tr": "çevreci",
+    "level": "B2"
+  },
+  {
+    "en": "Excuse me Sir",
+    "tr": "Affedersiniz efendim",
+    "level": "B2"
+  },
+  {
+    "en": "Excuse me?",
+    "tr": "Bakar mısınız?",
+    "level": "B2"
+  },
+  {
+    "en": "Forget it!",
+    "tr": "Unut gitsin",
+    "level": "B2"
+  },
+  {
+    "en": "Forgive me",
+    "tr": "Beni affet",
+    "level": "B2"
+  },
+  {
+    "en": "Give me a hand",
+    "tr": "Bana el uzat, bana yardımcı ol",
+    "level": "B2"
+  },
+  {
+    "en": "Good afternoon",
+    "tr": "İyi günler",
+    "level": "B2"
+  },
+  {
+    "en": "Good luck!",
+    "tr": "İyi şanslar",
+    "level": "B2"
+  },
+  {
+    "en": "Good morning",
+    "tr": "Günaydın",
+    "level": "B2"
+  },
+  {
+    "en": "Good night",
+    "tr": "İyi geceler",
+    "level": "B2"
+  },
+  {
+    "en": "Guess what?",
+    "tr": "Tahmin et, ne oldu?",
+    "level": "B2"
+  },
+  {
+    "en": "Have a good trip",
+    "tr": "İyi yolculuklar",
+    "level": "B2"
+  },
+  {
+    "en": "Have a good weekend",
+    "tr": "İyi hafta sonları",
+    "level": "B2"
+  },
+  {
+    "en": "Help yourself",
+    "tr": "Buyurun",
+    "level": "B2"
+  },
+  {
+    "en": "How are things doing?",
+    "tr": "İşler nasıl gidiyor?",
+    "level": "B2"
+  },
+  {
+    "en": "How are you?",
+    "tr": "Nasılsın?",
+    "level": "B2"
+  },
+  {
+    "en": "How do you feel?",
+    "tr": "Ne hissediyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "How much is it?",
+    "tr": "Fiyatı ne kadar?",
+    "level": "B2"
+  },
+  {
+    "en": "How old are you?",
+    "tr": "Kaç yaşındasın?",
+    "level": "B2"
+  },
+  {
+    "en": "How was your weekend?",
+    "tr": "Hafta sonun nasıldı?",
+    "level": "B2"
+  },
+  {
+    "en": "I admire you",
+    "tr": "Sana hayranım",
+    "level": "B2"
+  },
+  {
+    "en": "I agree with you",
+    "tr": "Sana katılıyorum",
+    "level": "B2"
+  },
+  {
+    "en": "I am hungry",
+    "tr": "Açım",
+    "level": "B2"
+  },
+  {
+    "en": "I am not hungry",
+    "tr": "Aç değilim",
+    "level": "B2"
+  },
+  {
+    "en": "I am serious",
+    "tr": "Ben ciddiyim",
+    "level": "B2"
+  },
+  {
+    "en": "I apologize",
+    "tr": "Özür dilerim",
+    "level": "B2"
+  },
+  {
+    "en": "I can’t wait",
+    "tr": "Bekleyemem",
+    "level": "B2"
+  },
+  {
+    "en": "I don’t agree",
+    "tr": "Katılmıyorum",
+    "level": "B2"
+  },
+  {
+    "en": "I don’t believe you",
+    "tr": "Sana inanmıyorum",
+    "level": "B2"
+  },
+  {
+    "en": "I don’t care",
+    "tr": "Umrumda değil",
+    "level": "B2"
+  },
+  {
+    "en": "I don’t have time",
+    "tr": "Zamanım yok",
+    "level": "B2"
+  },
+  {
+    "en": "I don’t know",
+    "tr": "Bilmiyorum",
+    "level": "B2"
+  },
+  {
+    "en": "I don’t mean it",
+    "tr": "Onu demek istemedim",
+    "level": "B2"
+  },
+  {
+    "en": "I don’t understand",
+    "tr": "Anlamadım",
+    "level": "B2"
+  },
+  {
+    "en": "I don’t want to",
+    "tr": "İstemiyorum",
+    "level": "B2"
+  },
+  {
+    "en": "I hate you!",
+    "tr": "Senden nefret ediyorum",
+    "level": "B2"
+  },
+  {
+    "en": "I have no idea",
+    "tr": "Hiçbir fikrim yok",
+    "level": "B2"
+  },
+  {
+    "en": "I have no idea",
+    "tr": "Hiçbir fikrim yok",
+    "level": "B2"
+  },
+  {
+    "en": "I love you",
+    "tr": "Seni seviyorum",
+    "level": "B2"
+  },
+  {
+    "en": "I think so",
+    "tr": "Sanırım",
+    "level": "B2"
+  },
+  {
+    "en": "I will be back",
+    "tr": "Geri döneceğim",
+    "level": "B2"
+  },
+  {
+    "en": "I wish you all the best",
+    "tr": "Her şeyin gönlünce olması dileğiyle",
+    "level": "B2"
+  },
+  {
+    "en": "I would love to",
+    "tr": "Çok isterim",
+    "level": "B2"
+  },
+  {
+    "en": "Is all good?",
+    "tr": "Her şey iyi mi?",
+    "level": "B2"
+  },
+  {
+    "en": "Is everything OK?",
+    "tr": "Her şey yolunda mı?",
+    "level": "B2"
+  },
+  {
+    "en": "Is it true or false?",
+    "tr": "Doğru mu yanlış mı?",
+    "level": "B2"
+  },
+  {
+    "en": "It doesn’t matter",
+    "tr": "Fark etmez",
+    "level": "B2"
+  },
+  {
+    "en": "It is beyond me",
+    "tr": "Bu beni aşar",
+    "level": "B2"
+  },
+  {
+    "en": "It’s so good to see you again",
+    "tr": "Seni tekrar görmek çok güzel",
+    "level": "B2"
+  },
+  {
+    "en": "Keep in touch",
+    "tr": "İletişimi koparmayalım",
+    "level": "B2"
+  },
+  {
+    "en": "Keep it up",
+    "tr": "Aynen devam et",
+    "level": "B2"
+  },
+  {
+    "en": "Let’s catch up!",
+    "tr": "Hadi arayı kapatalım",
+    "level": "B2"
+  },
+  {
+    "en": "Let’s do it!",
+    "tr": "Hadi yapalım.",
+    "level": "B2"
+  },
+  {
+    "en": "Long time no talk",
+    "tr": "Konuşmayalı uzun zaman oldu",
+    "level": "B2"
+  },
+  {
+    "en": "My battery is low",
+    "tr": "Şarjım az kaldı",
+    "level": "B2"
+  },
+  {
+    "en": "Nice to meet you",
+    "tr": "Tanıştığıma memnun oldum",
+    "level": "B2"
+  },
+  {
+    "en": "Not at all",
+    "tr": "Önemli değil",
+    "level": "B2"
+  },
+  {
+    "en": "participant",
+    "tr": "katılımcı",
+    "level": "B2"
+  },
+  {
+    "en": "particular",
+    "tr": "özel, belirli",
+    "level": "B2"
+  },
+  {
+    "en": "See you later",
+    "tr": "Sonra görüşürüz",
+    "level": "B2"
+  },
+  {
+    "en": "See you next time",
+    "tr": "Bir dahaki sefere görüşürüz",
+    "level": "B2"
+  },
+  {
+    "en": "See you tomorrow",
+    "tr": "Yarın görüşürüz",
+    "level": "B2"
+  },
+  {
+    "en": "Talk to you tomorrow",
+    "tr": "Yarın konuşuruz",
+    "level": "B2"
+  },
+  {
+    "en": "Thank you very much",
+    "tr": "Çok teşekkür ederim",
+    "level": "B2"
+  },
+  {
+    "en": "That’s all for now",
+    "tr": "Şimdilik bu kadar",
+    "level": "B2"
+  },
+  {
+    "en": "What are you doing?",
+    "tr": "Ne yapıyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "What are you talking about?",
+    "tr": "Neyden bahsediyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "What are you up to?",
+    "tr": "Neler yapıyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "What are your hobbies?",
+    "tr": "Hobilerin neler?",
+    "level": "B2"
+  },
+  {
+    "en": "What did you say?",
+    "tr": "Ne dedin?",
+    "level": "B2"
+  },
+  {
+    "en": "What do you need?",
+    "tr": "Neye ihtiyacın var?",
+    "level": "B2"
+  },
+  {
+    "en": "What do you think?",
+    "tr": "Ne düşünüyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "What do you want to do?",
+    "tr": "Ne yapmak istersin?",
+    "level": "B2"
+  },
+  {
+    "en": "What else?",
+    "tr": "Başka",
+    "level": "B2"
+  },
+  {
+    "en": "What happened?",
+    "tr": "Ne oldu?",
+    "level": "B2"
+  },
+  {
+    "en": "What is the matter?",
+    "tr": "Sorun nedir?",
+    "level": "B2"
+  },
+  {
+    "en": "What time is it?",
+    "tr": "Saat kaç?",
+    "level": "B2"
+  },
+  {
+    "en": "What’s going on?",
+    "tr": "Neler oluyor?",
+    "level": "B2"
+  },
+  {
+    "en": "What’s the weather like?",
+    "tr": "Hava nasıl?",
+    "level": "B2"
+  },
+  {
+    "en": "What’s up?",
+    "tr": "Ne haber?",
+    "level": "B2"
+  },
+  {
+    "en": "What’s wrong with you?",
+    "tr": "Neyin var?",
+    "level": "B2"
+  },
+  {
+    "en": "What’s your email address?",
+    "tr": "E-posta adresin ne?",
+    "level": "B2"
+  },
+  {
+    "en": "What’s your job?",
+    "tr": "Ne iş yapıyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "What’s your name?",
+    "tr": "Adın ne?",
+    "level": "B2"
+  },
+  {
+    "en": "What’s your phone number?",
+    "tr": "Telefon numaran ne?",
+    "level": "B2"
+  },
+  {
+    "en": "When did you come here?",
+    "tr": "Ne zaman buraya geldin?",
+    "level": "B2"
+  },
+  {
+    "en": "Where are you from?",
+    "tr": "Nerelisin?",
+    "level": "B2"
+  },
+  {
+    "en": "Where are you going?",
+    "tr": "Nereye gidiyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "Where are you?",
+    "tr": "Neredesin?",
+    "level": "B2"
+  },
+  {
+    "en": "Where did you get it?",
+    "tr": "Nereden aldın?",
+    "level": "B2"
+  },
+  {
+    "en": "Where do you live?",
+    "tr": "Nerede yaşıyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "Where have you been all this while",
+    "tr": "Bunca zamandır neredeydin?",
+    "level": "B2"
+  },
+  {
+    "en": "Which bus do you want?",
+    "tr": "Hangi otobüsü istiyorsun?",
+    "level": "B2"
+  },
+  {
+    "en": "Who are you?",
+    "tr": "Kimsin sen?",
+    "level": "B2"
+  },
+  {
+    "en": "Why are you here?",
+    "tr": "Neden buradasın?",
+    "level": "B2"
+  },
+  {
+    "en": "You are going too fast",
+    "tr": "Çok hızlı gidiyorsun",
+    "level": "B2"
+  },
+  {
+    "en": "You are welcome",
+    "tr": "Rica ederim",
+    "level": "B2"
+  }
+]

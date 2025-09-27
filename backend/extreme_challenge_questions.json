@@ -1,0 +1,80 @@
+[
+  {
+    "question": "In the sentence \"The recalcitrant committee's obdurate stance vis-à-vis the amelioration of fiscal policies proved ultimately counterproductive,\" what does \"vis-à-vis\" mean?",
+    "options": [
+      "In relation to",
+      "In spite of",
+      "In accordance with"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "extreme_challenge",
+    "time_limit": 20,
+    "explanation": "Vis-à-vis is a French phrase meaning \"in relation to\" or \"with regard to\"."
+  },
+  {
+    "question": "Which sentence uses \"literally\" correctly?",
+    "options": [
+      "I literally died laughing at that joke",
+      "The temperature literally dropped overnight",
+      "He literally has a million followers"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "extreme_challenge",
+    "time_limit": 15,
+    "explanation": "\"Literally\" should only be used when something actually happened, not as hyperbole."
+  },
+  {
+    "question": "Complete: \"The committee chair's decision to _____ the motion without debate was met with considerable consternation.\"",
+    "options": [
+      "table",
+      "tablet",
+      "stable"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "extreme_challenge",
+    "time_limit": 18,
+    "explanation": "To \"table\" a motion means to postpone or set aside for later consideration."
+  },
+  {
+    "question": "The phrase \"to brook no interference\" means:",
+    "options": [
+      "To welcome input",
+      "To tolerate no opposition",
+      "To seek compromise"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "extreme_challenge",
+    "time_limit": 12,
+    "explanation": "\"Brook\" as a verb means to tolerate or accept, usually used in negative constructions."
+  },
+  {
+    "question": "In formal writing, which is most appropriate?",
+    "options": [
+      "The data clearly shows a significant correlation",
+      "The data clearly show a significant correlation",
+      "The data is clearly showing a significant correlation"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "extreme_challenge",
+    "time_limit": 25,
+    "explanation": "\"Data\" is plural, so it takes plural verbs: \"data show\" not \"data shows\"."
+  },
+  {
+    "question": "Which sentence contains a dangling modifier?",
+    "options": [
+      "Walking to the store, the rain began to fall",
+      "While walking to the store, I noticed it began to rain",
+      "The rain began to fall as I walked to the store"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "extreme_challenge",
+    "time_limit": 30,
+    "explanation": "A dangling modifier occurs when the subject performing the action is unclear - the rain cannot walk to the store."
+  }
+]

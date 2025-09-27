@@ -1,0 +1,171 @@
+[
+  {
+    "question": "Read the passage:\n\n\"The phenomenon of climate change has reached a critical juncture where immediate action is imperative. Despite overwhelming scientific consensus, political inertia continues to hinder progress. The ramifications of our collective inaction will be irreversible within the next decade.\"\n\nWhat does \"political inertia\" mean in this context?",
+    "options": [
+      "Political enthusiasm",
+      "Political resistance to change",
+      "Political cooperation"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "reading_comprehension",
+    "time_limit": 90,
+    "explanation": "Political inertia refers to the tendency of political systems to resist change and maintain the status quo."
+  },
+  {
+    "question": "Read the passage:\n\n\"The protagonist's journey through the labyrinthine narrative structure reflects the author's postmodern sensibilities. Each digression serves to illuminate rather than obscure the central theme of existential alienation.\"\n\nThe word \"labyrinthine\" suggests the narrative is:",
+    "options": [
+      "Simple and direct",
+      "Complex and maze-like",
+      "Short and concise"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "reading_comprehension",
+    "time_limit": 75,
+    "explanation": "Labyrinthine means extremely complex and difficult to navigate, like a maze."
+  },
+  {
+    "question": "What does it mean when someone says \"You're barking up the wrong tree\"?",
+    "options": [
+      "You're being too loud",
+      "You're pursuing the wrong course of action",
+      "You're climbing dangerously"
+    ],
+    "correct_index": 1,
+    "level": "B2",
+    "type": "idioms",
+    "time_limit": 45,
+    "explanation": "This idiom means you are pursuing the wrong course of action or making incorrect assumptions."
+  },
+  {
+    "question": "If someone \"throws in the towel,\" they:",
+    "options": [
+      "Start cleaning",
+      "Give up or surrender",
+      "Begin exercising"
+    ],
+    "correct_index": 1,
+    "level": "B2",
+    "type": "idioms",
+    "time_limit": 45,
+    "explanation": "To throw in the towel means to give up, surrender, or admit defeat."
+  },
+  {
+    "question": "When you \"burn the midnight oil,\" you:",
+    "options": [
+      "Work late into the night",
+      "Waste energy",
+      "Have insomnia"
+    ],
+    "correct_index": 0,
+    "level": "B2",
+    "type": "idioms",
+    "time_limit": 45,
+    "explanation": "Burning the midnight oil means working late into the night, often studying or working hard."
+  },
+  {
+    "question": "Choose the correct form: \"Had I known about the meeting, I _____ attended.\"",
+    "options": [
+      "would have",
+      "will have",
+      "would"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "advanced_grammar",
+    "time_limit": 60,
+    "explanation": "This is a third conditional with inverted structure. \"Had I known\" = \"If I had known\""
+  },
+  {
+    "question": "Complete: \"It's high time you _____ responsibility for your actions.\"",
+    "options": [
+      "take",
+      "took",
+      "will take"
+    ],
+    "correct_index": 1,
+    "level": "B2",
+    "type": "advanced_grammar",
+    "time_limit": 60,
+    "explanation": "\"It's high time\" is followed by the subjunctive mood, using past tense form."
+  },
+  {
+    "question": "Select the correct option: \"No sooner _____ the concert started than it began to rain.\"",
+    "options": [
+      "had",
+      "has",
+      "was"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "advanced_grammar",
+    "time_limit": 60,
+    "explanation": "\"No sooner...than\" requires past perfect in the first clause: \"No sooner had X happened than Y happened\""
+  },
+  {
+    "question": "In the sentence \"The CEO's decision was quite _____, considering the company's precarious financial situation,\" which word fits best?",
+    "options": [
+      "judicious",
+      "foolish",
+      "quick"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "contextual_vocabulary",
+    "time_limit": 75,
+    "explanation": "Judicious means showing good judgment, which would be appropriate in a precarious financial situation."
+  },
+  {
+    "question": "The politician's speech was full of _____ statements that could be interpreted in multiple ways.",
+    "options": [
+      "clear",
+      "ambiguous",
+      "loud"
+    ],
+    "correct_index": 1,
+    "level": "B2",
+    "type": "contextual_vocabulary",
+    "time_limit": 60,
+    "explanation": "Ambiguous means open to more than one interpretation, unclear or inexact."
+  },
+  {
+    "question": "Her _____ personality made her unsuitable for leadership roles requiring decisive action.",
+    "options": [
+      "assertive",
+      "vacillating",
+      "confident"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "contextual_vocabulary",
+    "time_limit": 75,
+    "explanation": "Vacillating means being indecisive or wavering between different opinions or actions."
+  },
+  {
+    "question": "Which is the most appropriate way to express disagreement in a formal business meeting?",
+    "options": [
+      "That's totally wrong!",
+      "I respectfully disagree with that assessment",
+      "No way, José!"
+    ],
+    "correct_index": 1,
+    "level": "B2",
+    "type": "register",
+    "time_limit": 50,
+    "explanation": "Formal settings require polite, respectful language even when disagreeing."
+  },
+  {
+    "question": "In academic writing, which phrase is most appropriate?",
+    "options": [
+      "A bunch of studies show...",
+      "Numerous studies indicate...",
+      "Some people think..."
+    ],
+    "correct_index": 1,
+    "level": "B2",
+    "type": "register",
+    "time_limit": 50,
+    "explanation": "Academic writing requires formal, precise language and proper citations."
+  }
+]

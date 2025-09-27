@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EnglishCE - İngilizce Öğrenme Platformu</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="manifest" href="manifest.json">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading-screen" class="loading-screen">
+        <div class="loading-content">
+            <div class="logo">🎓 EnglishCE</div>
+            <div class="loading-spinner"></div>
+            <p>Yükleniyor...</p>
+        </div>
+    </div>
+
+    <!-- Login Screen -->
+    <div id="login-screen" class="screen">
+        <div class="container">
+            <div class="login-card">
+                <div class="logo-section">
+                    <h1 class="main-logo">🎓 EnglishCE</h1>
+                    <p class="tagline">İngilizce Öğrenmenin Yeni Yolu</p>
+                </div>
+                
+                <div class="auth-tabs">
+                    <button class="tab-btn active" onclick="showLogin()">Giriş Yap</button>
+                    <button class="tab-btn" onclick="showRegister()">Kayıt Ol</button>
+                </div>
+
+                <!-- Login Form -->
+                <form id="login-form" class="auth-form">
+                    <div class="form-group">
+                        <label for="login-username">Kullanıcı Adı</label>
+                        <input type="text" id="login-username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="login-password">Şifre</label>
+                        <input type="password" id="login-password" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <span class="btn-text">Giriş Yap</span>
+                        <span class="btn-loading">Giriş yapılıyor...</span>
+                    </button>
+                </form>
+                
+                <!-- Misafir Girişi -->
+                <div class="guest-section">
+                    <div class="divider">
+                        <span>veya</span>
+                    </div>
+                    <button class="btn btn-secondary guest-btn" onclick="handleGuestLogin()">
+                        <span class="btn-text">👥 Misafir Olarak Devam Et</span>
+                        <span class="btn-loading">Misafir girişi...</span>
+                    </button>
+                    <p class="guest-info">Misafir kullanıcılar temel özellikleri kullanabilir</p>
+                </div>
+
+                <!-- Register Form -->
+                <form id="register-form" class="auth-form" style="display: none;">
+                    <div class="form-group">
+                        <label for="register-username">Kullanıcı Adı</label>
+                        <input type="text" id="register-username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="register-password">Şifre (en az 4 karakter)</label>
+                        <input type="password" id="register-password" required minlength="4">
+                    </div>
+                    <div class="form-group">
+                        <label for="register-confirm">Şifre Tekrar</label>
+                        <input type="password" id="register-confirm" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <span class="btn-text">Kayıt Ol</span>
+                        <span class="btn-loading">Kayıt oluşturuluyor...</span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main App Screen -->
+    <div id="main-screen" class="screen" style="display: none;">
+        <!-- Header -->
+        <header class="header">
+            <div class="container">
+                <div class="header-content">
+                    <div class="logo">🎓 EnglishCE</div>
+                    <div class="user-info">
+                        <span id="user-welcome">Hoş geldin, <span id="username"></span></span>
+                        <span id="user-level" class="level-badge"></span>
+                        <button class="btn btn-ghost btn-sm" onclick="logout()">
+                            🚪 Çıkış
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="main-nav">
+            <div class="container">
+                <div class="nav-menu">
+                    <button class="nav-btn active" onclick="showSection('menu')">
+                        🏠 Ana Menü
+                    </button>
+                    <button class="nav-btn" onclick="showSection('game')">
+                        🎯 Oyun
+                    </button>
+                    <button class="nav-btn" onclick="showSection('ai-teacher')">
+                        🤖 AI Öğretmen
+                    </button>
+                    <button class="nav-btn" onclick="showSection('reading')">
+                        📖 Okuma
+                    </button>
+                    <button class="nav-btn" onclick="showSection('mistakes')">
+                        🔄 Yanlışlarım
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="container">
+                <!-- Menu Section -->
+                <section id="menu-section" class="section">
+                    <div class="welcome-card">
+                        <h2>Hoş Geldin! 👋</h2>
+                        <p>İngilizce öğrenme serüvenine devam etmeye hazır mısın?</p>
+                    </div>
+                    
+                    <div class="game-modes-grid">
+                        <div class="game-mode-card" onclick="startGame('race')">
+                            <div class="mode-icon">🏃‍♂️</div>
+                            <h3>Yarış Modu</h3>
+                            <p>Zamana karşı hızlı kelime yarışı</p>
+                            <div class="mode-stats">
+                                <span>⏱️ 5 saniye</span>
+                                <span>❤️ 3 can</span>
+                            </div>
+                        </div>
+                        
+                        <div class="game-mode-card" onclick="startGame('practice')">
+                            <div class="mode-icon">📚</div>
+                            <h3>Alıştırma Modu</h3>
+                            <p>Rahat tempo ile kelime öğrenimi</p>
+                            <div class="mode-stats">
+                                <span>⏰ Süresiz</span>
+                                <span>❤️ Sınırsız</span>
+                            </div>
+                        </div>
+                        
+                        <div class="game-mode-card level-assessment-card" onclick="startLevelAssessment()">
+                            <div class="mode-icon">🎓</div>
+                            <h3>Düzey Belirleme</h3>
+                            <p>EXTREME zorlukta seviye testi (A1-C1)</p>
+                            <div class="mode-stats">
+                                <span>📝 30 soru</span>
+                                <span>⚡ Çok zor!</span>
+                            </div>
+                        </div>
+                        
+                        <div class="game-mode-card" onclick="startGame('mistakes')">
+                            <div class="mode-icon">🔄</div>
+                            <h3>Yanlış Tekrarı</h3>
+                            <p>Yanlış yaptığın kelimeleri tekrar et</p>
+                            <div class="mode-stats">
+                                <span id="mistake-count">📊 0 kelime</span>
+                            </div>
+                        </div>
+                        
+                        <div class="game-mode-card" onclick="showSection('ai-teacher')">
+                            <div class="mode-icon">🤖</div>
+                            <h3>AI Öğretmen</h3>
+                            <p>Yapay zeka ile sohbet et ve öğren</p>
+                            <div class="mode-stats">
+                                <span>💬 Sohbet</span>
+                                <span>🧠 Akıllı</span>
+                            </div>
+                        </div>
+                        
+                        <div class="game-mode-card" onclick="showSection('reading')">
+                            <div class="mode-icon">📖</div>
+                            <h3>Okuma Bölümü</h3>
+                            <p>İngilizce hikayeler okuyarak öğren</p>
+                            <div class="mode-stats">
+                                <span>📚 5 hikaye</span>
+                                <span>💭 İnteraktif</span>
+                            </div>
+                        </div>
+                        
+                        <div class="game-mode-card" onclick="showSection('mistakes')">
+                            <div class="mode-icon">📊</div>
+                            <h3>İstatistikler</h3>
+                            <p>İlerleme durumunu görüntüle</p>
+                            <div class="mode-stats">
+                                <span>📈 Grafik</span>
+                                <span>🏆 Başarı</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Game Section -->
+                <section id="game-section" class="section" style="display: none;">
+                    <div class="game-container">
+                        <!-- Game Header -->
+                        <div class="game-header">
+                            <div class="game-stats">
+                                <div class="stat-item">
+                                    <span class="stat-label">Soru</span>
+                                    <span id="question-counter" class="stat-value">1</span>
+                                </div>
+                                <div id="timer-stat" class="stat-item" style="display: none;">
+                                    <span class="stat-label">Süre</span>
+                                    <span id="timer-display" class="stat-value">5</span>
+                                </div>
+                                <div id="lives-stat" class="stat-item" style="display: none;">
+                                    <span class="stat-label">Can</span>
+                                    <span id="lives-display" class="stat-value">3</span>
+                                </div>
+                            </div>
+                            <div class="game-actions">
+                                <button class="btn btn-ghost btn-sm" onclick="showSection('menu')">
+                                    🏠 Ana Menü
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Question Display -->
+                        <div class="question-card">
+                            <div class="question-text" id="question-text">
+                                Soru yükleniyor...
+                            </div>
+                        </div>
+
+                        <!-- Answer Options -->
+                        <div class="options-container">
+                            <button class="option-btn" onclick="selectAnswer(0)">
+                                <span class="option-letter">A</span>
+                                <span class="option-text">Seçenek 1</span>
+                            </button>
+                            <button class="option-btn" onclick="selectAnswer(1)">
+                                <span class="option-letter">B</span>
+                                <span class="option-text">Seçenek 2</span>
+                            </button>
+                            <button class="option-btn" onclick="selectAnswer(2)">
+                                <span class="option-letter">C</span>
+                                <span class="option-text">Seçenek 3</span>
+                            </button>
+                        </div>
+
+                        <!-- Game Controls -->
+                        <div class="game-controls">
+                            <button id="next-btn" class="btn btn-primary" onclick="nextQuestion()" style="display: none;">
+                                ➡️ Sonraki Soru
+                            </button>
+                        </div>
+
+                        <!-- Feedback -->
+                        <div id="feedback" class="feedback"></div>
+                    </div>
+                </section>
+
+                <!-- AI Teacher Section -->
+                <section id="ai-teacher-section" class="section" style="display: none;">
+                    <div class="chat-container">
+                        <div class="chat-header">
+                            <h2>🤖 AI Öğretmen - ChatGPT Tarzı Öğretim</h2>
+                            <div class="chat-controls">
+                                <button class="btn btn-sm btn-ghost" onclick="loadChatHistory()" title="Geçmiş sohbetleri yükle">
+                                    📜 Geçmiş
+                                </button>
+                                <button class="btn btn-sm btn-ghost" onclick="clearChatHistory()" title="Sohbet geçmişini temizle">
+                                    🗑️ Temizle
+                                </button>
+                                <button class="btn btn-sm btn-ghost" onclick="changeApiKey()" title="API Key Değiştir">
+                                    🔑 API Key
+                                </button>
+                                <select id="chat-language" class="form-select">
+                                    <option value="AUTO">Otomatik</option>
+                                    <option value="TR">Türkçe</option>
+                                    <option value="EN">English</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <!-- API Key Input Section -->
+                        <div id="api-key-section" class="api-key-container">
+                            <div class="api-key-header">
+                                <h3>🔑 OpenRouter API Key Gerekli</h3>
+                                <p>AI öğretmeni kullanmak için OpenRouter API key'inizi girin:</p>
+                            </div>
+                            <div class="api-key-input-group">
+                                <input type="password" id="api-key-input" placeholder="sk-or-v1-xxxxxxxxxxxxxxxx" class="form-input api-key-input">
+                                <button class="btn btn-primary" onclick="setApiKey()">
+                                    🚀 Başla
+                                </button>
+                            </div>
+                            <div class="api-key-info">
+                                <p><strong>📋 Nasıl Alınır:</strong></p>
+                                <ol>
+                                    <li>🌐 <a href="https://openrouter.ai" target="_blank">openrouter.ai</a> sitesine git</li>
+                                    <li>📝 Ücretsiz hesap oluştur</li>
+                                    <li>🔑 API Keys bölümünden yeni key oluştur</li>
+                                    <li>📋 Key'i kopyala ve buraya yapıştır</li>
+                                </ol>
+                                <p class="security-note">🔒 <strong>Güvenlik:</strong> API key'iniz tarayıcınızda güvenli bir şekilde saklanır ve sadece siz kullanabilirsiniz. Bir kez girdiğinizde hep kullanabilirsiniz.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="chat-messages" id="chat-messages" style="display: none;">
+                            <div class="message bot-message">
+                                <div class="message-avatar">🤖</div>
+                                <div class="message-content">
+                                    <div class="message-header">
+                                        <span class="sender-name">AI Öğretmen</span>
+                                        <span class="message-time">Şimdi</span>
+                                    </div>
+                                    <div class="message-text">
+                                        🎓 **Merhaba! ChatGPT tarzı AI öğretmenin burada!** 👋<br><br>
+                                        📚 Bana herhangi bir İngilizce konusu hakkında sorabilirsin:<br>
+                                        • Past Tense, Present Perfect vs gibi gramer konuları<br>
+                                        • Kelime anlamları ve kullanımları<br>
+                                        • Cümle kurma ve çeviri<br>
+                                        • İngilizce öğrenme taktikleri<br><br>
+                                        💡 **Artık sohbet geçmişini hatırlıyorum!** Önceki konuşmalarımızı referans alarak daha iyi öğretebilirim.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="chat-input-container" id="chat-input-container" style="display: none;">
+                            <div class="input-group">
+                                <input type="text" id="chat-input" placeholder="Örnek: Past Tense nedir, nasıl kullanılır?" class="form-input">
+                                <button id="send-btn" class="btn btn-primary" onclick="sendMessage()">
+                                    <span id="send-icon">➤</span>
+                                </button>
+                            </div>
+                            <div class="chat-suggestions">
+                                <button class="suggestion-btn" onclick="sendSuggestion('Past Tense nedir ve nasıl kullanılır?')">Past Tense</button>
+                                <button class="suggestion-btn" onclick="sendSuggestion('Present Perfect ile Past Simple arasındaki fark nedir?')">Present Perfect vs Past Simple</button>
+                                <button class="suggestion-btn" onclick="sendSuggestion('İngilizce kelime ezberlemek için en iyi yöntemler nelerdir?')">Kelime Ezberleme</button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Reading Section -->
+                <section id="reading-section" class="section" style="display: none;">
+                    <div class="reading-container">
+                        <div class="reading-header">
+                            <h2>📖 Okuma Bölümü</h2>
+                            <div class="reading-controls">
+                                <select id="story-select" class="form-select" onchange="loadStory()">
+                                    <option value="">Hikaye seçin...</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="reading-content">
+                            <div id="story-title" class="story-title"></div>
+                            <div id="story-content" class="story-content">
+                                <p class="reading-instruction">
+                                    Yukarıdan bir hikaye seçin. Kelimelerin üzerine tıklayarak çevirisini görebilirsiniz.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Mistakes Section -->
+                <section id="mistakes-section" class="section" style="display: none;">
+                    <div class="mistakes-container">
+                        <div class="mistakes-header">
+                            <h2>🔄 Yanlışlarım</h2>
+                            <p>Yanlış yaptığın kelimeler ve tekrar sayıları</p>
+                        </div>
+                        
+                        <div id="mistakes-content" class="mistakes-content">
+                            <div class="loading-message">
+                                Yanlışlar yükleniyor...
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Level Assessment Section -->
+                <section id="level-assessment-section" class="section" style="display: none;">
+                    <div class="level-assessment-container">
+                        <div class="assessment-header">
+                            <h2>🔥 EXTREME İngilizce Düzey Belirleme Sınavı</h2>
+                            <div class="assessment-info">
+                                <p>Bu sınav çok zor! Sadece ileri seviye İngilizce bilenlerin yüksek puan alabileceği extreme zorlukta bir testtir.</p>
+                                <ul>
+                                    <li>📝 30 soru (A1'den C1'e kadar)</li>
+                                    <li>⚡ Çok kısa zaman sınırları (12-60 saniye)</li>
+                                    <li>🏆 Akademik seviye kelimeler ve gramer</li>
+                                    <li>📖 Karmaşık okuma parçaları ve analiz</li>
+                                    <li>🔥 Çoğu kişi A1-A2 alır (bu normal!)</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Assessment Instructions -->
+                        <div id="assessment-instructions" class="assessment-instructions">
+                            <div class="instruction-card">
+                                <h3>🔥 EXTREME Zorluk Sınavı - Hazır mısın?</h3>
+                                <div class="instructions-list">
+                                    <div class="instruction-item">
+                                        <span class="instruction-icon">🔥</span>
+                                        <div class="instruction-text">
+                                            <strong>Bu sınav çok zor!</strong>
+                                            <p>Akademik seviye kelimeler, karmaşık gramer, hızlı düşünme</p>
+                                        </div>
+                                    </div>
+                                    <div class="instruction-item">
+                                        <span class="instruction-icon">⚡</span>
+                                        <div class="instruction-text">
+                                            <strong>Süre çok kısa</strong>
+                                            <p>Zor sorularda sadece 12-30 saniye zamanın var!</p>
+                                        </div>
+                                    </div>
+                                    <div class="instruction-item">
+                                        <span class="instruction-icon">🏆</span>
+                                        <div class="instruction-text">
+                                            <strong>Yüksek standartlar</strong>
+                                            <p>C1 için %95 doğruluk gerekli - neredeyse imkansız!</p>
+                                        </div>
+                                    </div>
+                                    <div class="instruction-item">
+                                        <span class="instruction-icon">😅</span>
+                                        <div class="instruction-text">
+                                            <strong>A1-A2 normal!</strong>
+                                            <p>Çoğu insan düşük seviye alır, bu gayet normal</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="assessment-actions">
+                                    <button class="btn btn-secondary" onclick="showSection('menu')">
+                                        ← Ana Menüye Dön
+                                    </button>
+                                    <button class="btn btn-primary" onclick="startAssessmentTest()">
+                                        🚀 Sınava Başla
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Assessment Test -->
+                        <div id="assessment-test" class="assessment-test" style="display: none;">
+                            <div class="test-progress">
+                                <div class="progress-info">
+                                    <span id="test-question-counter">Soru 1 / 30</span>
+                                    <span id="test-progress-percent">3%</span>
+                                </div>
+                                <div class="progress-bar">
+                                    <div id="test-progress-fill" class="progress-fill"></div>
+                                </div>
+                            </div>
+
+                            <div class="test-question-card">
+                                <div class="question-header">
+                                    <span class="question-label">Türkçe kelime:</span>
+                                </div>
+                                <div class="test-question-text" id="test-question-text">
+                                    Soru yükleniyor...
+                                </div>
+                            </div>
+
+                            <div class="test-options-container">
+                                <button class="test-option-btn" onclick="selectTestAnswer(0)">
+                                    <span class="option-letter">A</span>
+                                    <span class="test-option-text">Seçenek 1</span>
+                                </button>
+                                <button class="test-option-btn" onclick="selectTestAnswer(1)">
+                                    <span class="option-letter">B</span>
+                                    <span class="test-option-text">Seçenek 2</span>
+                                </button>
+                                <button class="test-option-btn" onclick="selectTestAnswer(2)">
+                                    <span class="option-letter">C</span>
+                                    <span class="test-option-text">Seçenek 3</span>
+                                </button>
+                            </div>
+
+                            <div class="test-controls">
+                                <button id="test-next-btn" class="btn btn-primary" onclick="nextTestQuestion()" style="display: none;">
+                                    ➡️ Sonraki Soru
+                                </button>
+                            </div>
+
+                            <div id="test-feedback" class="test-feedback"></div>
+                        </div>
+
+                        <!-- Assessment Results -->
+                        <div id="assessment-results" class="assessment-results" style="display: none;">
+                            <div class="results-card">
+                                <div class="results-header">
+                                    <div class="results-icon">🎉</div>
+                                    <h3>Tebrikler! Sınavı Tamamladın</h3>
+                                </div>
+                                
+                                <div class="level-result">
+                                    <div class="level-badge-large" id="final-level-badge">
+                                        A1
+                                    </div>
+                                    <div class="level-description">
+                                        <h4 id="level-title">Başlangıç Seviyesi</h4>
+                                        <p id="level-description">Temel İngilizce kelime ve ifadeleri anlayabilirsin.</p>
+                                    </div>
+                                </div>
+
+                                <div class="test-summary">
+                                    <div class="summary-item">
+                                        <span class="summary-label">Doğru Cevap:</span>
+                                        <span id="correct-count" class="summary-value">25</span>
+                                    </div>
+                                    <div class="summary-item">
+                                        <span class="summary-label">Toplam Soru:</span>
+                                        <span id="total-questions" class="summary-value">30</span>
+                                    </div>
+                                    <div class="summary-item">
+                                        <span class="summary-label">Başarı Oranı:</span>
+                                        <span id="success-rate" class="summary-value">83%</span>
+                                    </div>
+                                </div>
+
+                                <div class="level-breakdown" id="level-breakdown">
+                                    <!-- Level-by-level breakdown will be populated here -->
+                                </div>
+
+                                <div class="results-actions">
+                                    <button class="btn btn-secondary" onclick="startLevelAssessment()">
+                                        🔄 Sınavı Tekrar Et
+                                    </button>
+                                    <button class="btn btn-primary" onclick="showSection('menu')">
+                                        🏠 Ana Menüye Dön
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Translation Modal -->
+    <div id="translation-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>💬 Çeviri</h3>
+                <button class="modal-close" onclick="closeTranslationModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="translation-item">
+                    <label>İngilizce:</label>
+                    <div id="original-text" class="original-text"></div>
+                </div>
+                <div class="translation-item">
+                    <label>Türkçe:</label>
+                    <div id="translated-text" class="translated-text"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

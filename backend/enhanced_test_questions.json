@@ -1,0 +1,119 @@
+[
+  {
+    "id": "gram_1",
+    "level": "B1",
+    "type": "grammar",
+    "question": "I _____ in London for five years.",
+    "options": [
+      "live",
+      "have lived",
+      "lived"
+    ],
+    "correct_index": 1,
+    "explanation": "Present Perfect is used for duration from past to present"
+  },
+  {
+    "id": "gram_2",
+    "level": "B2",
+    "type": "grammar",
+    "question": "If I _____ rich, I would travel around the world.",
+    "options": [
+      "am",
+      "was",
+      "were"
+    ],
+    "correct_index": 2,
+    "explanation": "Second conditional uses \"were\" for all persons"
+  },
+  {
+    "id": "gram_3",
+    "level": "B1",
+    "type": "grammar",
+    "question": "You _____ smoke in the hospital.",
+    "options": [
+      "cannot",
+      "do not have to",
+      "should not"
+    ],
+    "correct_index": 0,
+    "explanation": "Cannot indicates prohibition"
+  },
+  {
+    "id": "phrasal_1",
+    "level": "B1",
+    "type": "phrasal_verb",
+    "question": "I need to _____ smoking for my health.",
+    "options": [
+      "give up",
+      "give in",
+      "give out"
+    ],
+    "correct_index": 0,
+    "explanation": "Give up means quit or stop doing something"
+  },
+  {
+    "id": "phrasal_2",
+    "level": "B2",
+    "type": "phrasal_verb",
+    "question": "I _____ my old friend at the supermarket.",
+    "options": [
+      "ran after",
+      "ran into",
+      "ran away"
+    ],
+    "correct_index": 1,
+    "explanation": "Run into means meet by chance"
+  },
+  {
+    "id": "vocab_1",
+    "level": "B2",
+    "type": "vocabulary",
+    "question": "The speech was very _____ and inspired many people.",
+    "options": [
+      "eloquent",
+      "awkward",
+      "confusing"
+    ],
+    "correct_index": 0,
+    "explanation": "Eloquent means fluent and persuasive in speaking"
+  },
+  {
+    "id": "vocab_2",
+    "level": "C1",
+    "type": "vocabulary",
+    "question": "Her argument was _____ and difficult to refute.",
+    "options": [
+      "flimsy",
+      "compelling",
+      "vague"
+    ],
+    "correct_index": 1,
+    "explanation": "Compelling means convincing and forceful"
+  },
+  {
+    "id": "context_1",
+    "level": "B1",
+    "type": "context",
+    "question": "The weather was terrible, _____ we stayed home.",
+    "options": [
+      "but",
+      "so",
+      "because"
+    ],
+    "correct_index": 1,
+    "explanation": "So indicates result or consequence"
+  },
+  {
+    "id": "context_2",
+    "level": "B2",
+    "type": "context",
+    "question": "The project was difficult; _____, we completed it.",
+    "options": [
+      "however",
+      "therefore",
+      "because"
+    ],
+    "correct_index": 0,
+    "explanation": "However shows contrast despite difficulty"
+  }
+]

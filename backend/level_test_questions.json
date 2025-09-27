@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "A1_1",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "a",
+      "tr": "bir",
+      "level": "A1"
+    },
+    "question": "bir",
+    "correct_answer": "a",
+    "options": [
+      "make",
+      "a",
+      "my"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_2",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "about",
+      "tr": "hakkında, ilgili, konusunda",
+      "level": "A1"
+    },
+    "question": "hakkında, ilgili, konusunda",
+    "correct_answer": "about",
+    "options": [
+      "name",
+      "well",
+      "about"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A1_3",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "above",
+      "tr": "yukarıda",
+      "level": "A1"
+    },
+    "question": "yukarıda",
+    "correct_answer": "above",
+    "options": [
+      "no",
+      "above",
+      "come"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_4",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "after",
+      "tr": "sonra, ardından, daha sonra",
+      "level": "A1"
+    },
+    "question": "sonra, ardından, daha sonra",
+    "correct_answer": "after",
+    "options": [
+      "can",
+      "after",
+      "give"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_5",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "again",
+      "tr": "tekrar, yeniden",
+      "level": "A1"
+    },
+    "question": "tekrar, yeniden",
+    "correct_answer": "again",
+    "options": [
+      "again",
+      "home",
+      "name"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A1_6",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "age",
+      "tr": "yaş",
+      "level": "A1"
+    },
+    "question": "yaş",
+    "correct_answer": "age",
+    "options": [
+      "want",
+      "how",
+      "age"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A1_7",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "all",
+      "tr": "her şey, tüm, bütün",
+      "level": "A1"
+    },
+    "question": "her şey, tüm, bütün",
+    "correct_answer": "all",
+    "options": [
+      "table",
+      "color",
+      "all"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A1_8",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "and",
+      "tr": "ve, ile",
+      "level": "A1"
+    },
+    "question": "ve, ile",
+    "correct_answer": "and",
+    "options": [
+      "and",
+      "with",
+      "about"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A1_9",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "any",
+      "tr": "herhangi, hiç, her",
+      "level": "A1"
+    },
+    "question": "herhangi, hiç, her",
+    "correct_answer": "any",
+    "options": [
+      "art",
+      "any",
+      "chair"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_10",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "apple",
+      "tr": "elma",
+      "level": "A1"
+    },
+    "question": "elma",
+    "correct_answer": "apple",
+    "options": [
+      "girl",
+      "green",
+      "apple"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A1_11",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "arm",
+      "tr": "kol",
+      "level": "A1"
+    },
+    "question": "kol",
+    "correct_answer": "arm",
+    "options": [
+      "above",
+      "man",
+      "arm"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A1_12",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "art",
+      "tr": "sanat",
+      "level": "A1"
+    },
+    "question": "sanat",
+    "correct_answer": "art",
+    "options": [
+      "can",
+      "not",
+      "art"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A1_13",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "as",
+      "tr": "gibi, olarak",
+      "level": "A1"
+    },
+    "question": "gibi, olarak",
+    "correct_answer": "as",
+    "options": [
+      "dog",
+      "out",
+      "as"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A1_14",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "baby",
+      "tr": "bebek",
+      "level": "A1"
+    },
+    "question": "bebek",
+    "correct_answer": "baby",
+    "options": [
+      "dog",
+      "baby",
+      "now"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_15",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "back",
+      "tr": "geri",
+      "level": "A1"
+    },
+    "question": "geri",
+    "correct_answer": "back",
+    "options": [
+      "year",
+      "back",
+      "yes"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_16",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "bag",
+      "tr": "sırt çantası",
+      "level": "A1"
+    },
+    "question": "sırt çantası",
+    "correct_answer": "bag",
+    "options": [
+      "water",
+      "bag",
+      "cold"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_17",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "be",
+      "tr": "olmak, var olmak",
+      "level": "A1"
+    },
+    "question": "olmak, var olmak",
+    "correct_answer": "be",
+    "options": [
+      "so",
+      "be",
+      "too"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_18",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "bed",
+      "tr": "yatak",
+      "level": "A1"
+    },
+    "question": "yatak",
+    "correct_answer": "bed",
+    "options": [
+      "bed",
+      "tree",
+      "father"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A1_19",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "before",
+      "tr": "önce",
+      "level": "A1"
+    },
+    "question": "önce",
+    "correct_answer": "before",
+    "options": [
+      "red",
+      "before",
+      "take"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A1_20",
+    "level": "A1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "big",
+      "tr": "büyük",
+      "level": "A1"
+    },
+    "question": "büyük",
+    "correct_answer": "big",
+    "options": [
+      "then",
+      "her",
+      "big"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A2_1",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "ability",
+      "tr": "kabiliyet, yetenek, beceri",
+      "level": "A2"
+    },
+    "question": "kabiliyet, yetenek, beceri",
+    "correct_answer": "ability",
+    "options": [
+      "think",
+      "ability",
+      "represent"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A2_2",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "able",
+      "tr": "yapabilmek, yapabilen",
+      "level": "A2"
+    },
+    "question": "yapabilmek, yapabilen",
+    "correct_answer": "able",
+    "options": [
+      "able",
+      "play",
+      "generation"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_3",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "accept",
+      "tr": "kabul etmek",
+      "level": "A2"
+    },
+    "question": "kabul etmek",
+    "correct_answer": "accept",
+    "options": [
+      "accept",
+      "state",
+      "sport"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_4",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "across",
+      "tr": "karşısında",
+      "level": "A2"
+    },
+    "question": "karşısında",
+    "correct_answer": "across",
+    "options": [
+      "across",
+      "mission",
+      "morning"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_5",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "act",
+      "tr": "eylem, davranış",
+      "level": "A2"
+    },
+    "question": "eylem, davranış",
+    "correct_answer": "act",
+    "options": [
+      "act",
+      "better",
+      "zebra"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_6",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "add",
+      "tr": "eklemek, ilave etmek",
+      "level": "A2"
+    },
+    "question": "eklemek, ilave etmek",
+    "correct_answer": "add",
+    "options": [
+      "add",
+      "today",
+      "between"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_7",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "address",
+      "tr": "adres",
+      "level": "A2"
+    },
+    "question": "adres",
+    "correct_answer": "address",
+    "options": [
+      "address",
+      "outside",
+      "top"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_8",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "admit",
+      "tr": "kabul etmek, itiraf etmek",
+      "level": "A2"
+    },
+    "question": "kabul etmek, itiraf etmek",
+    "correct_answer": "admit",
+    "options": [
+      "prove",
+      "manager",
+      "admit"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "A2_9",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "adult",
+      "tr": "yetişkin, erişkin",
+      "level": "A2"
+    },
+    "question": "yetişkin, erişkin",
+    "correct_answer": "adult",
+    "options": [
+      "adult",
+      "represent",
+      "central"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_10",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "affect",
+      "tr": "etkilemek, etki etmek",
+      "level": "A2"
+    },
+    "question": "etkilemek, etki etmek",
+    "correct_answer": "affect",
+    "options": [
+      "affect",
+      "create",
+      "police"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_11",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "against",
+      "tr": "karşı",
+      "level": "A2"
+    },
+    "question": "karşı",
+    "correct_answer": "against",
+    "options": [
+      "against",
+      "war",
+      "avoid"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_12",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "agency",
+      "tr": "ajans, acenta",
+      "level": "A2"
+    },
+    "question": "ajans, acenta",
+    "correct_answer": "agency",
+    "options": [
+      "agency",
+      "image",
+      "series"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_13",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "agent",
+      "tr": "ajan",
+      "level": "A2"
+    },
+    "question": "ajan",
+    "correct_answer": "agent",
+    "options": [
+      "agent",
+      "player",
+      "herself"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_14",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "ago",
+      "tr": "önce, evvel",
+      "level": "A2"
+    },
+    "question": "önce, evvel",
+    "correct_answer": "ago",
+    "options": [
+      "hair",
+      "ago",
+      "treat"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A2_15",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "agree",
+      "tr": "katılmak, hem fikir olmak",
+      "level": "A2"
+    },
+    "question": "katılmak, hem fikir olmak",
+    "correct_answer": "agree",
+    "options": [
+      "avoid",
+      "agree",
+      "month"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A2_16",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "ahead",
+      "tr": "önde, ileri",
+      "level": "A2"
+    },
+    "question": "önde, ileri",
+    "correct_answer": "ahead",
+    "options": [
+      "thing",
+      "ahead",
+      "piece"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A2_17",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "air",
+      "tr": "hava",
+      "level": "A2"
+    },
+    "question": "hava",
+    "correct_answer": "air",
+    "options": [
+      "air",
+      "sense",
+      "thus"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "A2_18",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "allow",
+      "tr": "izin vermek",
+      "level": "A2"
+    },
+    "question": "izin vermek",
+    "correct_answer": "allow",
+    "options": [
+      "trip",
+      "allow",
+      "choose"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A2_19",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "almost",
+      "tr": "neredeyse, hemen hemen",
+      "level": "A2"
+    },
+    "question": "neredeyse, hemen hemen",
+    "correct_answer": "almost",
+    "options": [
+      "though",
+      "almost",
+      "statement"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "A2_20",
+    "level": "A2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "alone",
+      "tr": "yalnız, tek başına",
+      "level": "A2"
+    },
+    "question": "yalnız, tek başına",
+    "correct_answer": "alone",
+    "options": [
+      "people",
+      "full",
+      "alone"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B1_1",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "according",
+      "tr": "göre",
+      "level": "B1"
+    },
+    "question": "göre",
+    "correct_answer": "according",
+    "options": [
+      "according",
+      "analysis",
+      "consumer"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B1_2",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "account",
+      "tr": "hesap, açıklama",
+      "level": "B1"
+    },
+    "question": "hesap, açıklama",
+    "correct_answer": "account",
+    "options": [
+      "economic",
+      "account",
+      "cultural"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B1_3",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "action",
+      "tr": "eylem, etki, hareket",
+      "level": "B1"
+    },
+    "question": "eylem, etki, hareket",
+    "correct_answer": "action",
+    "options": [
+      "career",
+      "action",
+      "activity"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B1_4",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "activity",
+      "tr": "faaliyet, etkinlik",
+      "level": "B1"
+    },
+    "question": "faaliyet, etkinlik",
+    "correct_answer": "activity",
+    "options": [
+      "activity",
+      "How much?",
+      "available"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B1_5",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "actually",
+      "tr": "aslında, gerçekte",
+      "level": "B1"
+    },
+    "question": "aslında, gerçekte",
+    "correct_answer": "actually",
+    "options": [
+      "actually",
+      "Cheer up!",
+      "I’m sorry"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B1_6",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "afternoon",
+      "tr": "öğleden sonra",
+      "level": "B1"
+    },
+    "question": "öğleden sonra",
+    "correct_answer": "afternoon",
+    "options": [
+      "recently",
+      "Be calm!",
+      "afternoon"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B1_7",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "all right",
+      "tr": "peki",
+      "level": "B1"
+    },
+    "question": "peki",
+    "correct_answer": "all right",
+    "options": [
+      "all right",
+      "somebody",
+      "available"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B1_8",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Allow me",
+      "tr": "Bana izin ver",
+      "level": "B1"
+    },
+    "question": "Bana izin ver",
+    "correct_answer": "Allow me",
+    "options": [
+      "daughter",
+      "Allow me",
+      "amount"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B1_9",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "american",
+      "tr": "amerikan",
+      "level": "B1"
+    },
+    "question": "amerikan",
+    "correct_answer": "american",
+    "options": [
+      "american",
+      "Be calm!",
+      "according"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B1_10",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "amount",
+      "tr": "miktar, tutar",
+      "level": "B1"
+    },
+    "question": "miktar, tutar",
+    "correct_answer": "amount",
+    "options": [
+      "afternoon",
+      "career",
+      "amount"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B1_11",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "analysis",
+      "tr": "analiz, çözümleme",
+      "level": "B1"
+    },
+    "question": "analiz, çözümleme",
+    "correct_answer": "analysis",
+    "options": [
+      "analysis",
+      "somebody",
+      "amount"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B1_12",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "anywhere",
+      "tr": "herhangi bir yere",
+      "level": "B1"
+    },
+    "question": "herhangi bir yere",
+    "correct_answer": "anywhere",
+    "options": [
+      "career",
+      "anywhere",
+      "account"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B1_13",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "approach",
+      "tr": "yaklaşım, yaklaşma",
+      "level": "B1"
+    },
+    "question": "yaklaşım, yaklaşma",
+    "correct_answer": "approach",
+    "options": [
+      "career",
+      "approach",
+      "Try again"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B1_14",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "attorney",
+      "tr": "avukat, vekil",
+      "level": "B1"
+    },
+    "question": "avukat, vekil",
+    "correct_answer": "attorney",
+    "options": [
+      "majority",
+      "attorney",
+      "knowledge"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B1_15",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "audience",
+      "tr": "seyirci, izleyici",
+      "level": "B1"
+    },
+    "question": "seyirci, izleyici",
+    "correct_answer": "audience",
+    "options": [
+      "Hurry up",
+      "I hope so",
+      "audience"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B1_16",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "authority",
+      "tr": "yetki, otorite",
+      "level": "B1"
+    },
+    "question": "yetki, otorite",
+    "correct_answer": "authority",
+    "options": [
+      "knowledge",
+      "authority",
+      "I am lost"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B1_17",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "available",
+      "tr": "müsait",
+      "level": "B1"
+    },
+    "question": "müsait",
+    "correct_answer": "available",
+    "options": [
+      "Take care",
+      "everybody",
+      "available"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B1_18",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Be calm!",
+      "tr": "Sakin ol!",
+      "level": "B1"
+    },
+    "question": "Sakin ol!",
+    "correct_answer": "Be calm!",
+    "options": [
+      "Be calm!",
+      "action",
+      "amount"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B1_19",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Be quiet!",
+      "tr": "Sessiz ol",
+      "level": "B1"
+    },
+    "question": "Sessiz ol",
+    "correct_answer": "Be quiet!",
+    "options": [
+      "democrat",
+      "Be quiet!",
+      "Cheer up!"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B1_20",
+    "level": "B1",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "behavior",
+      "tr": "davranış, tutum, hareket",
+      "level": "B1"
+    },
+    "question": "davranış, tutum, hareket",
+    "correct_answer": "behavior",
+    "options": [
+      "director",
+      "behavior",
+      "It’s okay"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B2_1",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "administration",
+      "tr": "yönetim, idare",
+      "level": "B2"
+    },
+    "question": "yönetim, idare",
+    "correct_answer": "administration",
+    "options": [
+      "administration",
+      "What did you say?",
+      "Can you help me please?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B2_2",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "afterwards",
+      "tr": "ondan sonra",
+      "level": "B2"
+    },
+    "question": "ondan sonra",
+    "correct_answer": "afterwards",
+    "options": [
+      "You are welcome",
+      "afterwards",
+      "Why are you here?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B2_3",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "agreement",
+      "tr": "anlaşma, sözleşme",
+      "level": "B2"
+    },
+    "question": "anlaşma, sözleşme",
+    "correct_answer": "agreement",
+    "options": [
+      "agreement",
+      "Is it true or false?",
+      "Count me on, Count me in"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B2_4",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Anything else?",
+      "tr": "Başka bir şey var mı?",
+      "level": "B2"
+    },
+    "question": "Başka bir şey var mı?",
+    "correct_answer": "Anything else?",
+    "options": [
+      "Where are you?",
+      "Give me a hand",
+      "Anything else?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B2_5",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you coming with me?",
+      "tr": "Benimle geliyor musun?",
+      "level": "B2"
+    },
+    "question": "Benimle geliyor musun?",
+    "correct_answer": "Are you coming with me?",
+    "options": [
+      "Are you coming with me?",
+      "Call me later",
+      "Where are you going?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B2_6",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you coming?",
+      "tr": "Geliyor musun?",
+      "level": "B2"
+    },
+    "question": "Geliyor musun?",
+    "correct_answer": "Are you coming?",
+    "options": [
+      "Are you coming?",
+      "I hate you!",
+      "How are you?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B2_7",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you done?",
+      "tr": "Bitirdin mi?",
+      "level": "B2"
+    },
+    "question": "Bitirdin mi?",
+    "correct_answer": "Are you done?",
+    "options": [
+      "Anything else?",
+      "How do you feel?",
+      "Are you done?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B2_8",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you hungry?",
+      "tr": "Aç mısın?",
+      "level": "B2"
+    },
+    "question": "Aç mısın?",
+    "correct_answer": "Are you hungry?",
+    "options": [
+      "I think so",
+      "Are you hungry?",
+      "Don’t be so childish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B2_9",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you kidding me?",
+      "tr": "Benimle dalga mı geçiyorsun?",
+      "level": "B2"
+    },
+    "question": "Benimle dalga mı geçiyorsun?",
+    "correct_answer": "Are you kidding me?",
+    "options": [
+      "Are you kidding me?",
+      "Count me on, Count me in",
+      "What happened?"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B2_10",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you lost?",
+      "tr": "Kayıp mı oldun?",
+      "level": "B2"
+    },
+    "question": "Kayıp mı oldun?",
+    "correct_answer": "Are you lost?",
+    "options": [
+      "I am serious",
+      "Are you lost?",
+      "Are you sure?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B2_11",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you not feeling well?",
+      "tr": "Kendini iyi hissetmiyor musun?",
+      "level": "B2"
+    },
+    "question": "Kendini iyi hissetmiyor musun?",
+    "correct_answer": "Are you not feeling well?",
+    "options": [
+      "I am not hungry",
+      "I would love to",
+      "Are you not feeling well?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B2_12",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you okay?",
+      "tr": "İyi misin?",
+      "level": "B2"
+    },
+    "question": "İyi misin?",
+    "correct_answer": "Are you okay?",
+    "options": [
+      "Enjoy yourself",
+      "What happened?",
+      "Are you okay?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B2_13",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Are you sure?",
+      "tr": "Emin misin?",
+      "level": "B2"
+    },
+    "question": "Emin misin?",
+    "correct_answer": "Are you sure?",
+    "options": [
+      "I don’t agree",
+      "What do you want to do?",
+      "Are you sure?"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B2_14",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "attention",
+      "tr": "dikkat",
+      "level": "B2"
+    },
+    "question": "dikkat",
+    "correct_answer": "attention",
+    "options": [
+      "attention",
+      "How much is it?",
+      "Let’s catch up!"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B2_15",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Be careful!",
+      "tr": "Dikkatli ol!",
+      "level": "B2"
+    },
+    "question": "Dikkatli ol!",
+    "correct_answer": "Be careful!",
+    "options": [
+      "I hate you!",
+      "Be careful!",
+      "I have no idea"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B2_16",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Be patient!",
+      "tr": "Sabırlı ol!",
+      "level": "B2"
+    },
+    "question": "Sabırlı ol!",
+    "correct_answer": "Be patient!",
+    "options": [
+      "agreement",
+      "Believe me",
+      "Be patient!"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B2_17",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Believe me",
+      "tr": "İnan bana",
+      "level": "B2"
+    },
+    "question": "İnan bana",
+    "correct_answer": "Believe me",
+    "options": [
+      "Guess what?",
+      "It doesn’t matter",
+      "Believe me"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "B2_18",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Bless you!",
+      "tr": "Çok yasa!",
+      "level": "B2"
+    },
+    "question": "Çok yasa!",
+    "correct_answer": "Bless you!",
+    "options": [
+      "Bless you!",
+      "Let’s catch up!",
+      "environmental"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "B2_19",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Bottoms up!",
+      "tr": "Şerefe!",
+      "level": "B2"
+    },
+    "question": "Şerefe!",
+    "correct_answer": "Bottoms up!",
+    "options": [
+      "I admire you",
+      "Bottoms up!",
+      "How much is it?"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "B2_20",
+    "level": "B2",
+    "question_type": "multiple_choice",
+    "word": {
+      "en": "Call me back",
+      "tr": "Beni geri ara",
+      "level": "B2"
+    },
+    "question": "Beni geri ara",
+    "correct_answer": "Call me back",
+    "options": [
+      "Not at all",
+      "Call me back",
+      "Do you speak our language?"
+    ],
+    "correct_index": 1
+  }
+]

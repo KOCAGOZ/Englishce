@@ -1,0 +1,171 @@
+[
+  {
+    "question": "Read the passage:\n\n\"The ubiquitous proliferation of digital surveillance mechanisms has engendered a pernicious erosion of civil liberties, thereby necessitating a comprehensive reevaluation of the social contract between citizenry and state apparatus.\"\n\nThe word \"pernicious\" most closely means:",
+    "options": [
+      "Beneficial and helpful",
+      "Harmful and destructive",
+      "Temporary and fleeting"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "ultra_reading",
+    "time_limit": 45,
+    "explanation": "Pernicious means having a harmful effect, especially in a gradual or subtle way."
+  },
+  {
+    "question": "Analyze: \"The protagonist's quixotic endeavor to ameliorate societal inequities through philanthropic gesticulation ultimately proves futile against the inexorable machinations of systemic oppression.\"\n\nWhat does \"quixotic\" suggest about the protagonist?",
+    "options": [
+      "Realistic and practical",
+      "Idealistic but impractical",
+      "Cynical and pessimistic"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "ultra_reading",
+    "time_limit": 50,
+    "explanation": "Quixotic means extremely idealistic and unrealistic, like Don Quixote."
+  },
+  {
+    "question": "Complete with correct subjunctive: \"Were it not for the vicissitudes of fortune, he _____ achieved unprecedented success.\"",
+    "options": [
+      "would have",
+      "will have",
+      "had"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "ultra_grammar",
+    "time_limit": 35,
+    "explanation": "Subjunctive conditional: \"Were it not for\" requires \"would have\" in the main clause."
+  },
+  {
+    "question": "Select correct form: \"Lest we _____ the gravity of this situation, let me reiterate the consequences.\"",
+    "options": [
+      "underestimate",
+      "underestimated",
+      "will underestimate"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "ultra_grammar",
+    "time_limit": 40,
+    "explanation": "\"Lest\" requires the subjunctive mood, using the base form of the verb."
+  },
+  {
+    "question": "Choose the appropriate form: \"Scarcely _____ the meeting commenced when the fire alarm sounded.\"",
+    "options": [
+      "had",
+      "has",
+      "did"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "ultra_grammar",
+    "time_limit": 35,
+    "explanation": "\"Scarcely...when\" requires past perfect: \"Scarcely had the meeting commenced when...\""
+  },
+  {
+    "question": "The committee's decision was characterized by such _____ that even seasoned diplomats were confounded by its implications.",
+    "options": [
+      "perspicacity",
+      "obfuscation",
+      "transparency"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "ultra_vocabulary",
+    "time_limit": 40,
+    "explanation": "Obfuscation means deliberate obscurity or confusion, fitting the context of confounding diplomats."
+  },
+  {
+    "question": "His _____ manner of speaking, replete with circumlocutions and unnecessary elaborations, rendered his message virtually incomprehensible.",
+    "options": [
+      "laconic",
+      "prolix",
+      "succinct"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "ultra_vocabulary",
+    "time_limit": 45,
+    "explanation": "Prolix means tediously lengthy and verbose, matching the description of circumlocutions and elaborations."
+  },
+  {
+    "question": "The scholar's _____ analysis of the text revealed nuances that had eluded previous researchers for decades.",
+    "options": [
+      "cursory",
+      "perspicacious",
+      "superficial"
+    ],
+    "correct_index": 1,
+    "level": "C1",
+    "type": "ultra_vocabulary",
+    "time_limit": 40,
+    "explanation": "Perspicacious means having keen insight or discernment, appropriate for revealing hidden nuances."
+  },
+  {
+    "question": "Complete the collocation: \"The research findings _____ serious questions about the validity of the methodology.\"",
+    "options": [
+      "pose",
+      "make",
+      "create"
+    ],
+    "correct_index": 0,
+    "level": "C1",
+    "type": "ultra_collocations",
+    "time_limit": 30,
+    "explanation": "The correct collocation is \"pose questions\" - to raise or present questions for consideration."
+  },
+  {
+    "question": "Select the appropriate phrasal verb: \"The investigation _____ numerous inconsistencies in the financial records.\"",
+    "options": [
+      "brought up",
+      "brought about",
+      "brought to light"
+    ],
+    "correct_index": 2,
+    "level": "C1",
+    "type": "ultra_collocations",
+    "time_limit": 35,
+    "explanation": "\"Brought to light\" means revealed or exposed, appropriate for uncovering inconsistencies."
+  },
+  {
+    "question": "If all entrepreneurs are risk-takers, and some risk-takers are unsuccessful, which conclusion is necessarily true?",
+    "options": [
+      "Some entrepreneurs are unsuccessful",
+      "All entrepreneurs are unsuccessful",
+      "No valid conclusion can be drawn"
+    ],
+    "correct_index": 2,
+    "level": "C1",
+    "type": "ultra_logic",
+    "time_limit": 60,
+    "explanation": "The premises don't provide enough information to conclude anything definitive about entrepreneurs' success rates."
+  },
+  {
+    "question": "Which sentence demonstrates appropriate academic register?",
+    "options": [
+      "Lots of studies show that this method works really well",
+      "Empirical evidence substantiates the efficacy of this methodological approach",
+      "This method is totally amazing and everyone should use it"
+    ],
+    "correct_index": 1,
+    "level": "B2",
+    "type": "ultra_academic",
+    "time_limit": 35,
+    "explanation": "Academic writing requires formal vocabulary, objective tone, and precise terminology."
+  },
+  {
+    "question": "Identify the most academically appropriate transition:",
+    "options": [
+      "On the other hand, the data shows...",
+      "Conversely, the empirical evidence indicates...",
+      "But then again, the numbers prove..."
+    ],
+    "correct_index": 1,
+    "level": "B2",
+    "type": "ultra_academic",
+    "time_limit": 30,
+    "explanation": "\"Conversely\" and \"empirical evidence indicates\" are more formal and academically appropriate."
+  }
+]
